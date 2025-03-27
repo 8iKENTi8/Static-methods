@@ -1,5 +1,3 @@
-# https://github.com/lenarsaitov/cianparser
-
 import cianparser
 import openpyxl
 
@@ -29,11 +27,23 @@ ws = wb.active
 ws.title = "Квартиры"
 
 # Записываем заголовки (берём ключи первого объявления)
-ws.append(list(data[0].keys()))
+ws.append(["url", "floor", "floors_count", "rooms_count", "total_meters", "price", "district", "underground", "residential_complex"])
 
 # Записываем данные
 for flat in data:
-    ws.append(list(flat.values()))
+    # Проверяем наличие метро и района
+    if flat.get("underground") and flat.get("district"):
+        ws.append([
+            flat["url"], 
+            flat["floor"], 
+            flat["floors_count"], 
+            flat["rooms_count"], 
+            flat["total_meters"], 
+            flat["price"], 
+            flat["district"],  
+            flat["underground"], 
+            flat.get("residential_complex", "")
+        ])
 
 # Сохраняем в файл
 wb.save("flats.xlsx")
