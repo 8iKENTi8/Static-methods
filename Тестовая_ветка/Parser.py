@@ -3,34 +3,45 @@ import openpyxl
 import requests
 from bs4 import BeautifulSoup
 
-# Функция для получения времени до метро и года постройки
-def get_metro_time_and_build_year(url):
+# Функция для получения времени до метро
+def get_metro_time(url):
     try:
         # Запрашиваем страницу объявления
         response = requests.get(url)
         soup = BeautifulSoup(response.text, 'html.parser')
         
-        # Получаем время до метро
-        metro_time_tag = soup.find('span', class_='a10a3f92e9--underground_time--YvrcI')
-        metro_time = None
+        # Ищем элемент с временем до метро
+        metro_time_tag = soup.find('span', class_='a10a3f92e9--underground_time--YvrcI')  # Класс по вашему примеру
         if metro_time_tag:
-            metro_time_text = metro_time_tag.text.strip()
+            # Извлекаем текст и парсим количество минут
+            metro_time_text = metro_time_tag.text.strip()  # Например: "8 мин."
             try:
                 metro_time = int(metro_time_text.split()[0])  # Извлекаем число до слова "мин"
+                return metro_time
             except ValueError:
-                metro_time = None
+                return None  # Если не удалось преобразовать в число
+        return None  # Если не нашли информации о времени
+    except requests.exceptions.RequestException:
+        return None  # Если произошла ошибка при запросе страницы
 
-        # Получаем год постройки
-        build_year = None
+def get_build_year(url):
+    try:
+        # Запрашиваем страницу объявления
+        response = requests.get(url)
+        soup = BeautifulSoup(response.text, 'html.parser')
+
+        # Ищем все элементы <div> с нужным классом
         build_year_label = soup.find('p', text='Год постройки')  # Ищем по метке "Год постройки"
+        
         if build_year_label:
+            # Находим следующий тег <p> с годом
             build_year_tag = build_year_label.find_next('p')
             if build_year_tag:
-                build_year = build_year_tag.text.strip()
-
-        return metro_time, build_year
+                return build_year_tag.text.strip()  # Возвращаем текст (например, "1979")
+        
+        return None  # Если не нашли информации о годе постройки
     except requests.exceptions.RequestException:
-        return None, None  # Если произошла ошибка при запросе страницы
+        return None  # Если произошла ошибка при запросе страницы
 
 # Создаём парсер для Москвы
 moscow_parser = cianparser.CianParser(location="Москва")
@@ -80,27 +91,28 @@ for idx, flat in enumerate(data):
         # Расчёт цены за квадратный метр
         price_per_meter = flat["price"] / flat["total_meters"] if flat["total_meters"] != 0 else 0
         
-        # Получаем время до метро и год постройки за один запрос
-        metro_time, build_year = get_metro_time_and_build_year(flat["url"])
+        # Получаем время до метро
+        metro_time = get_metro_time(flat["url"])
         
-        # Если хотя бы одно из значений (время до метро или год постройки) не получено, пропускаем эту запись
-        if metro_time is not None and build_year is not None:
-            # Добавляем данные в Excel
-            ws.append([
-                flat["url"], 
-                flat["floor"], 
-                flat["floors_count"], 
-                flat["rooms_count"], 
-                flat["total_meters"], 
-                flat["price"], 
-                flat["district"],  
-                flat["underground"],
-                price_per_meter,  # Цена за метр
-                metro_time,  # Время до метро
-                build_year  # Год постройки
-            ])
+        # Получаем год постройки
+        build_year = get_build_year(flat["url"])
+        
+        # Добавляем данные в Excel
+        ws.append([
+            flat["url"], 
+            flat["floor"], 
+            flat["floors_count"], 
+            flat["rooms_count"], 
+            flat["total_meters"], 
+            flat["price"], 
+            flat["district"],  
+            flat["underground"],
+            price_per_meter,  # Цена за метр
+            metro_time,  # Время до метро
+            build_year  # Год постройки
+        ])
 
 # Сохраняем в файл
-wb.save("flatsWithMetrotime.xlsx")
+wb.save("flats.xlsx")
 
 print(f"✅ Сохранено {len(data)} объявлений в flats.xlsx")
