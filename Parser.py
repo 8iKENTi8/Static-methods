@@ -1,3 +1,4 @@
+# https://github.com/lenarsaitov/cianparser
 import cianparser
 import openpyxl
 import requests
@@ -42,7 +43,7 @@ data = moscow_parser.get_flats(
     with_saving_csv=True,
     additional_settings={
         "start_page": 1,
-        "end_page": 1,
+        "end_page": 55,
         "min_area": 30,  # Студии слишком разные, лучше с 30 м²
         "max_area": 150,
         "min_floor": 2,

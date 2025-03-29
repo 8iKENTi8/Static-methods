@@ -1,0 +1,840 @@
+author;author_type;url;location;deal_type;accommodation_type;floor;floors_count;rooms_count;total_meters;price;district;street;house_number;underground;residential_complex
+Whitewill;real_estate_agent;https://www.cian.ru/sale/flat/315038053/;Москва;sale;flat;5;31;3;86.4;43000000;Хорошево-Мневники;Карамышевская набережная;2А;Народное Ополчение;Утесов
+Мариана Ефимова;realtor;https://www.cian.ru/sale/flat/313489145/;Москва;sale;flat;4;12;1;42.0;11500000;Нагатино-Садовники; Академика Миллионщикова;31;Каширская;
+do A.S.A.P.;real_estate_agent;https://www.cian.ru/sale/flat/313240274/;Москва;sale;flat;18;32;2;75.4;41700000;Хорошево-Мневники;проспект Маршала Жукова;43к5;Народное Ополчение;Wellton park
+Intermark Real Estate;real_estate_agent;https://www.cian.ru/sale/flat/306834640/;Москва;sale;flat;10;33;3;113.9;47000000;Тропарево-Никулино;проспект Вернадского;105к4;Юго-Западная;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/315558144/;Москва;sale;flat;9;17;2;58.6;15500000;Митино;Дубравная ;40;Митино;
+CENTURY 21 Столичная недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/315300607/;Москва;sale;flat;2;26;2;42.7;18900000;Головинский;Кронштадтский бульвар;6к1;Водный стадион;Водный
+GRAND ESTATE - Премиальная недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/304950407/;Москва;sale;flat;2;9;4;120.0;53000000;Мещанский;Астраханский переулок;5;Проспект Мира;
+Delight Realty;real_estate_agent;https://www.cian.ru/sale/flat/312794034/;Москва;sale;flat;7;17;3;108.8;54000000;Раменки;Мичуринский проспект;11К4;Раменки;
+GRAND ESTATE - Премиальная недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/308335219/;Москва;sale;flat;15;23;2;100.8;40000000;Раменки; Пырьева;9к2;Поклонная;
+Dream Realty;real_estate_agent;https://www.cian.ru/sale/flat/314522554/;Москва;sale;flat;9;17;3;74.7;18000000;Некрасовка;проспект Защитников Москвы;12;Некрасовка;Некрасовка-Парк
+Whitewill;real_estate_agent;https://www.cian.ru/sale/flat/315442756/;Москва;sale;flat;16;30;3;130.0;53950000;Сокол; Врубеля;8;Панфиловская;Поселок художников
+do A.S.A.P.;real_estate_agent;https://www.cian.ru/sale/flat/314699560/;Москва;sale;flat;23;23;1;35.9;19100000;Лефортово;Красноказарменная ;14Ак2;Авиамоторная;Пётр I
+Арт Риэлти;real_estate_agent;https://www.cian.ru/sale/flat/314368469/;Москва;sale;flat;12;18;3;125.0;55000000;Хорошево-Мневники;проспект Маршала Жукова;58К1;Бульвар Генерала Карбышева;
+Whitewill;real_estate_agent;https://www.cian.ru/sale/flat/314650441/;Москва;sale;flat;6;8;2;57.0;34500000;Можайский; Гришина;16;Рабочий посёлок;Level Кутузовский
+Whitewill;real_estate_agent;https://www.cian.ru/sale/flat/310765033/;Москва;sale;flat;15;22;2;56.0;28450000;Раменки; Столетова;15;Раменки;Мичуринский
+Whitewill;real_estate_agent;https://www.cian.ru/sale/flat/305688198/;Москва;sale;flat;27;27;2;70.0;38000000;Южнопортовый; 1-я Машиностроения;10;Дубровка;Дубровская Слобода
+ОЛ ИНКЛЮЗИВ;real_estate_agent;https://www.cian.ru/sale/flat/314866404/;Москва;sale;flat;12;18;3;105.0;44500000;Кунцево;Ельнинская ;11К3;Молодёжная;Изумрудная долина III
+Whitewill;real_estate_agent;https://www.cian.ru/sale/flat/311341337/;Москва;sale;flat;20;21;2;67.5;55000000;Беговой;Ленинградский проспект;29к2;Динамо;Царская площадь
+Whitewill;real_estate_agent;https://www.cian.ru/sale/flat/315108495/;Москва;sale;flat;9;25;3;100.0;43900000;Академический;проспект 60-летия Октября;8;Академическая;
+NIKA ESTATE;real_estate_agent;https://www.cian.ru/sale/flat/314133589/;Москва;sale;flat;3;12;2;75.2;49500000;Проспект Вернадского; Удальцова;26;Проспект Вернадского;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/303625618/;Москва;sale;flat;17;17;2;58.6;14300000;; Летчика Грицевца;12;Пыхтино;Солнцево парк
+Анастасия Гусева;realtor;https://www.cian.ru/sale/flat/315145942/;Москва;sale;flat;12;12;3;64.4;27000000;Раменки; Довженко;12К2;Минская;
+Whitewill;real_estate_agent;https://www.cian.ru/sale/flat/308063059/;Москва;sale;flat;13;28;3;76.6;41000000;Войковский; Адмирала Макарова;6Бк1;Водный стадион;Невский
+АЛЬФА;real_estate_agent;https://www.cian.ru/sale/flat/307669189/;Москва;sale;flat;14;17;2;56.7;15500000;; Ясная;1;Коммунарка;
+Whitewill;real_estate_agent;https://www.cian.ru/sale/flat/314327691/;Москва;sale;flat;28;30;3;115.0;48900000;Сокол; Врубеля;8;Панфиловская;Поселок художников
+ID 12707689;homeowner;https://www.cian.ru/sale/flat/315311339/;Москва;sale;flat;11;18;2;59.0;19900000;Зябликово;Ореховый проезд;41к1;Домодедовская;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/314812776/;Москва;sale;flat;19;22;1;40.0;10190000;Некрасовка;Рождественская ;19к1;Некрасовка;
+AR Realty - Real Estate Agency;real_estate_agent;https://www.cian.ru/sale/flat/303280779/;Москва;sale;flat;11;20;3;117.1;45290000;Свиблово;проезд Серебрякова;11к1;Ботанический сад;Silver
+Антон Шестаков;realtor;https://www.cian.ru/sale/flat/315317549/;Москва;sale;flat;9;17;1;39.0;9900000;Южное Бутово;бульвар Адмирала Ушакова;11;Улица Скобелевская;
+Самолет плюс Москва Шаболовская;real_estate_agent;https://www.cian.ru/sale/flat/314933347/;Москва;sale;flat;12;22;1;38.5;10300000;Чертаново Центральное;Кировоградская ;30;Пражская;
+ID 129229164;homeowner;https://www.cian.ru/sale/flat/315415244/;Москва;sale;flat;2;10;3;75.2;25555000;Марьино;Мячковский бульвар;8;Братиславская;
+FALCON GROUP;real_estate_agent;https://www.cian.ru/sale/flat/310884204/;Москва;sale;flat;2;14;4;86.2;23900000;Лефортово;Солдатская ;10К2;Лефортово;
+Московский Риэлторский Центр;real_estate_agent;https://www.cian.ru/sale/flat/313915704/;Москва;sale;flat;10;17;3;100.7;43000000;Раменки;Мичуринский проспект;34;Раменки;
+Наталья Веселова;realtor;https://www.cian.ru/sale/flat/314217229/;Москва;sale;flat;7;9;2;49.5;16500000;Отрадное; Мусоргского;11Б;Отрадное;
+МРИЭЛТОР - офис Отрадное;real_estate_agent;https://www.cian.ru/sale/flat/315170720/;Москва;sale;flat;2;19;2;60.7;22500000;Таганский;Рабочая ;16;Москва-Товарная;
+ID 25159;realtor;https://www.cian.ru/sale/flat/315170976/;Москва;sale;flat;6;15;1;46.0;11600000;; Сосенский Стан;10;Новомосковская;
+Акрополь;real_estate_agent;https://www.cian.ru/sale/flat/314483553/;Москва;sale;flat;12;14;3;80.9;30000000;Академический;Большая Черемушкинская ;2К5;Крымская;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/313171879/;Москва;sale;flat;15;16;1;40.0;13900000;Строгино; Кулакова;10;Строгино;
+Александр Васильев;realtor;https://www.cian.ru/sale/flat/315206417/;Москва;sale;flat;4;21;1;36.1;9500000;Некрасовка;Рождественская ;31;Некрасовка;
+Самолет Плюс Москва ЮГ;real_estate_agent;https://www.cian.ru/sale/flat/304537333/;Москва;sale;flat;7;12;2;55.8;15500000;Южное Бутово;Южнобутовская ;76;Бунинская аллея;
+PEOPLE;real_estate_agent;https://www.cian.ru/sale/flat/312585485/;Москва;sale;flat;28;32;3;75.5;37750000;Хорошево-Мневники;проспект Маршала Жукова;43к5;Народное Ополчение;Wellton park
+ID 126416626;homeowner;https://www.cian.ru/sale/flat/313709878/;Москва;sale;flat;15;22;3;80.0;28000000;Черемушки;Перекопская ;34к4;Новые Черёмушки;
+НДВ;real_estate_agent;https://www.cian.ru/sale/flat/312660495/;Москва;sale;flat;13;19;4;114.0;33000000;Ховрино;Левобережная ;4к14;Беломорская;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/310469555/;Москва;sale;flat;12;17;2;54.0;12700000;Некрасовка;Рождественская ;21к5;Некрасовка;
+SRG;real_estate_agent;https://www.cian.ru/sale/flat/315409101/;Москва;sale;flat;2;17;1;40.0;15500000;Черемушки;Новочеремушкинская ;57К1;Профсоюзная;
+CENTURY 21 Level;real_estate_agent;https://www.cian.ru/sale/flat/313591987/;Москва;sale;flat;6;23;4;146.5;53500000;Кунцево; Екатерины Будановой;5;Рабочий посёлок;Катрин-Хаус
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/314791156/;Москва;sale;flat;15;17;1;38.0;11999999;Братеево; Борисовские Пруды;12К1;Борисово;
+ID 82280139;homeowner;https://www.cian.ru/sale/flat/290431403/;Москва;sale;flat;15;17;3;75.0;29500000;Черемушки;Нахимовский проспект;61К1;Профсоюзная;
+Самолет Плюс Москва;real_estate_agent;https://www.cian.ru/sale/flat/315444111/;Москва;sale;flat;2;17;4;75.0;31500000;Зюзино;Болотниковская ;36к6;Каховская;Нахимово
+Кремлёвские Ключи;real_estate_agent;https://www.cian.ru/sale/flat/314599964/;Москва;sale;flat;10;19;2;59.0;18290000;Хорошево-Мневники; Мневники;21;Народное Ополчение;
+MODERN HOME;real_estate_agent;https://www.cian.ru/sale/flat/315474858/;Москва;sale;flat;7;17;3;75.0;23000000;Митино;Пятницкое шоссе;27К1;Митино;
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/315564756/;Москва;sale;flat;18;22;2;57.0;12500000;Некрасовка;Покровская ;41;Некрасовка;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/315163705/;Москва;sale;flat;9;14;1;37.9;11200000;Южное Бутово; Адмирала Лазарева;38К1;Улица Горчакова;
+Дмитрий Шпак;realtor;https://www.cian.ru/sale/flat/297493910/;Москва;sale;flat;10;14;1;38.0;9000000;Южное Бутово; Адмирала Лазарева;62;Бунинская аллея;
+Навигатор;real_estate_agent;https://www.cian.ru/sale/flat/312939827/;Москва;sale;flat;7;9;2;62.0;25750000;Тверской;Тихвинский переулок;5;Менделеевская;
+FALCON GROUP;real_estate_agent;https://www.cian.ru/sale/flat/315248995/;Москва;sale;flat;4;12;2;45.6;15600000;Бутырский; Милашенкова;10;Фонвизинская;
+ID 116698204;homeowner;https://www.cian.ru/sale/flat/315150717/;Москва;sale;flat;9;14;1;39.4;10490000;Новокосино;Городецкая ;9К1;Новокосино;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/313331791/;Москва;sale;flat;14;20;2;64.8;21900000;Чертаново Южное;Варшавское шоссе;160к2;Аннино;Аннинский
+Isaev Estate;real_estate_agent;https://www.cian.ru/sale/flat/315042925/;Москва;sale;flat;12;13;1;42.0;33500000;Беговой;Ленинградский проспект;29к4;Динамо;Царская площадь
+ID 129166426;realtor;https://www.cian.ru/sale/flat/315354881/;Москва;sale;flat;5;9;4;96.0;19500000;Южное Бутово;Южнобутовская ;33;Улица Горчакова;
+ОГРК;real_estate_agent;https://www.cian.ru/sale/flat/308947864/;Москва;sale;flat;15;33;2;63.0;23500000;Соколиная гора;проспект Буденного;51к1;Шоссе Энтузиастов;Золотая звезда
+Парадайс;real_estate_agent;https://www.cian.ru/sale/flat/313514559/;Москва;sale;flat;9;9;2;53.0;17950000;Коптево;3-й Михалковский переулок;24;Коптево;
+Екатерина Митяева;realtor;https://www.cian.ru/sale/flat/315284734/;Москва;sale;flat;8;12;3;63.9;14900000;Отрадное; Декабристов;36;Отрадное;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/311433310/;Москва;sale;flat;5;14;2;55.4;13500000;Братеево;Алма-Атинская ;5;Алма-Атинская;
+ОГРК;real_estate_agent;https://www.cian.ru/sale/flat/310929916/;Москва;sale;flat;12;14;2;52.6;16999999;Очаково-Матвеевское;Веерная ;32К1;Матвеевская;
+ИП Шаймарданов Р. Ф.;real_estate_agent;https://www.cian.ru/sale/flat/315484843/;Москва;sale;flat;14;16;2;54.4;14199000;Ясенево; Паустовского;8К3;Ясенево;
+АЯКС;real_estate_agent;https://www.cian.ru/sale/flat/313593846/;Москва;sale;flat;9;17;2;50.7;21999900;Орехово-Борисово Северное;Домодедовская ;20К1;Орехово;
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/312024224/;Москва;sale;flat;8;14;1;39.1;10300000;Братеево; Борисовские Пруды;6К1;Борисово;
+АЯКС;real_estate_agent;https://www.cian.ru/sale/flat/314498280/;Москва;sale;flat;20;21;2;55.2;22999999;Дмитровский;Дмитровское шоссе;107Ак1;Яхромская;Город
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/314434404/;Москва;sale;flat;10;14;3;64.1;18600000;Зюзино;Керченская ;1К2;Зюзино;
+ID 43549;realtor;https://www.cian.ru/sale/flat/257091559/;Москва;sale;flat;19;22;3;98.0;44100000;Измайлово;10-я Парковая ;3;Первомайская;
+АЯКС;real_estate_agent;https://www.cian.ru/sale/flat/314576517/;Москва;sale;flat;7;9;3;65.0;17999999;Люблино;Совхозная ;18К2;Люблино;
+Тимур Умяров;realtor;https://www.cian.ru/sale/flat/314590054/;Москва;sale;flat;10;10;2;53.1;12300000;Южное Бутово;Южнобутовская ;121;Бунинская аллея;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/312243390/;Москва;sale;flat;14;14;2;47.0;10000000;Солнцево;Боровский проезд;24;Солнечная;
+Виктория Завроцкая;realtor;https://www.cian.ru/sale/flat/315363607/;Москва;sale;flat;20;22;3;78.4;20800000;Москворечье-Сабурово;Каширское шоссе;55К6;Москворечье;
+Илона Махова;realtor;https://www.cian.ru/sale/flat/312166935/;Москва;sale;flat;3;12;2;50.5;13300000;Северное Тушино;Туристская ;15;Сходненская;
+ЦЕНТР НЕДВИЖИМОСТИ;real_estate_agent;https://www.cian.ru/sale/flat/311367902/;Москва;sale;flat;14;17;3;83.0;15499000;Северное Бутово; Грина;1К3;Бульвар Дмитрия Донского;
+Мой Дом - отделение Добрынинское;real_estate_agent;https://www.cian.ru/sale/flat/315447734/;Москва;sale;flat;3;17;1;36.6;11500000;Северное Бутово;бульвар Дмитрия Донского;10;Бульвар Дмитрия Донского;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/313591544/;Москва;sale;flat;18;24;1;36.0;11500000;; Бачуринская;7к2;Коммунарка;Новая Звезда
+Владимир Веселицкий;realtor;https://www.cian.ru/sale/flat/314700149/;Москва;sale;flat;5;12;2;52.0;11500000;Головинский;Зеленоградская ;3;Моссельмаш;
+Кирилл Баран;realtor;https://www.cian.ru/sale/flat/313924664/;Москва;sale;flat;9;17;1;36.4;11950000;Коньково; Академика Капицы;26К3;Коньково;
+Ксения Тищенкова;realtor;https://www.cian.ru/sale/flat/304322143/;Москва;sale;flat;10;12;2;101.0;39800000;Преображенское;Преображенская площадь;6;Преображенская площадь;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/315134712/;Москва;sale;flat;3;16;1;38.0;12700000;Митино;Пятницкое шоссе;36К1;Пятницкое шоссе;
+Мой Дом - отделение Добрынинское;real_estate_agent;https://www.cian.ru/sale/flat/315463626/;Москва;sale;flat;9;12;3;62.8;15000000;Зябликово; Мусы Джалиля;17К1;Шипиловская;
+WHITE BROKER;real_estate_agent;https://www.cian.ru/sale/flat/314889644/;Москва;sale;flat;2;14;3;64.0;12800000;Южное Бутово;Джанкойская ;3В;Бутово;
+Тамара Николаевна Кодзоева;realtor;https://www.cian.ru/sale/flat/315051224/;Москва;sale;flat;5;14;4;118.2;30000000;Южное Бутово; Академика Семенова;3;Бунинская аллея;
+Ларссон Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/315165475/;Москва;sale;flat;9;14;2;59.0;14900000;Южное Бутово; Адмирала Лазарева;47К1;Бунинская аллея;
+Суламит-НГС;real_estate_agent;https://www.cian.ru/sale/flat/315400492/;Москва;sale;flat;15;16;1;37.7;15600000;Нагатинский затон;Коломенская набережная;6К1;Нагатинский Затон;
+Светлана Сапронова;realtor;https://www.cian.ru/sale/flat/315235298/;Москва;sale;flat;6;17;2;55.0;15200000;Измайлово;10-я Парковая ;15;Первомайская;
+Кремлёвские Ключи;real_estate_agent;https://www.cian.ru/sale/flat/306607502/;Москва;sale;flat;3;14;3;75.5;17300000;Выхино-Жулебино; Маршала Полубоярова;4к2;Жулебино;
+Юлия Воробьева;realtor;https://www.cian.ru/sale/flat/314426476/;Москва;sale;flat;10;14;3;90.0;17500000;;;1;Силикатная;
+МГСН;real_estate_agent;https://www.cian.ru/sale/flat/314650305/;Москва;sale;flat;9;12;2;52.0;11000000;Люблино;Ставропольская ;56К1;Люблино;
+СМАРЕНТ;real_estate_agent;https://www.cian.ru/sale/flat/313762251/;Москва;sale;flat;8;12;3;75.0;17990000;Южное Бутово;Южнобутовская ;101;Бунинская аллея;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/312098069/;Москва;sale;flat;10;17;3;78.0;20500000;Чертаново Южное;Варшавское шоссе;152К6;Улица Академика Янгеля;
+Столичный Проспект;real_estate_agent;https://www.cian.ru/sale/flat/300987607/;Москва;sale;flat;2;12;2;53.0;12500000;Отрадное;Алтуфьевское шоссе;12;Владыкино;
+Московский Риэлторский Центр;real_estate_agent;https://www.cian.ru/sale/flat/314640797/;Москва;sale;flat;5;12;2;56.8;20900000;Савеловский;Петровско-Разумовский проезд;24К19;Дмитровская;
+МИЦ-Столичный ипотечный центр недвижимости;real_estate_agent;https://www.cian.ru/sale/flat/315430228/;Москва;sale;flat;2;15;1;38.2;11500000;Марьино;Братиславская ;19К2;Братиславская;
+Московский Риэлторский Центр;real_estate_agent;https://www.cian.ru/sale/flat/315352069/;Москва;sale;flat;12;16;2;50.0;21400000;Останкинский; Академика Королева;9К5;Улица Академика Королёва;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/314639215/;Москва;sale;flat;16;24;2;67.4;24000000;Ховрино;Клинская ;16к1;Грачёвская;
+Светлана Сальникова;realtor;https://www.cian.ru/sale/flat/314632576/;Москва;sale;flat;2;22;1;37.7;11290000;Солнцево;Производственная ;2к1;Солнцево;
+Estes;real_estate_agent;https://www.cian.ru/sale/flat/315406086/;Москва;sale;flat;2;24;3;60.1;24900000;Очаково-Матвеевское;Большая Очаковская ;44к1;Озёрная;Мичурино-Запад
+Елена Климова;realtor;https://www.cian.ru/sale/flat/312803363/;Москва;sale;flat;9;14;1;38.0;9850000;Марьино;Луговой проезд;6;Марьино;
+Business Leader;real_estate_agent;https://www.cian.ru/sale/flat/314452144/;Москва;sale;flat;16;22;3;80.0;34500000;Обручевский; Новаторов;4К4;Новаторская;
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/315485642/;Москва;sale;flat;7;17;1;41.7;14290000;Южное Тушино;Сходненская ;14;Сходненская;
+БЕСТ-Недвижимость на Баррикадной;real_estate_agent;https://www.cian.ru/sale/flat/312972655/;Москва;sale;flat;10;12;1;38.0;9200000;Южное Бутово;Бартеневская ;41;Улица Горчакова;
+Алексей Фризяк;realtor;https://www.cian.ru/sale/flat/315053440/;Москва;sale;flat;15;17;2;52.0;15000000;Северное Бутово; Грина;18К2;Бульвар Дмитрия Донского;
+Навигатор;real_estate_agent;https://www.cian.ru/sale/flat/315343086/;Москва;sale;flat;15;20;3;72.0;27000000;Текстильщики; Чистова;16к4;Волжская;LIFE-Волжская
+do A.S.A.P.;real_estate_agent;https://www.cian.ru/sale/flat/314501261/;Москва;sale;flat;10;14;4;108.0;40000000;Академический;Новочеремушкинская ;21К1;Академическая;
+Дмитрий Шадский;realtor;https://www.cian.ru/sale/flat/312900328/;Москва;sale;flat;14;22;3;78.4;21999000;Чертаново Южное;Варшавское шоссе;160к1;Аннино;Аннинский
+МГСН;real_estate_agent;https://www.cian.ru/sale/flat/314018288/;Москва;sale;flat;13;17;2;54.0;12900000;Некрасовка;Покровская ;21;Некрасовка;Некрасовка-Парк
+Светлана Карпова;realtor;https://www.cian.ru/sale/flat/313796162/;Москва;sale;flat;10;17;2;50.8;15500000;Южное Тушино; Василия Петушкова;11;Трикотажная;
+ID 108459114;homeowner;https://www.cian.ru/sale/flat/315400946/;Москва;sale;flat;8;14;3;86.08;24600000;Рязанский; Маевок;1к3;Чухлинка;
+Простор-недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/313232850/;Москва;sale;flat;12;12;2;52.3;16999999;Фили-Давыдково;Кастанаевская ;60;Пионерская;
+do A.S.A.P.;real_estate_agent;https://www.cian.ru/sale/flat/314626137/;Москва;sale;flat;23;25;2;55.0;25000000;Фили-Давыдково;Славянский бульвар;9к6;Славянский бульвар;Квартал Триумфальный
+SOSHIN;real_estate_agent;https://www.cian.ru/sale/flat/310838306/;Москва;sale;flat;8;17;1;38.0;12500000;Зюзино;Одесская ;14К1;Каховская;
+Estes;real_estate_agent;https://www.cian.ru/sale/flat/315517879/;Москва;sale;flat;15;16;2;74.0;36700000;Филевский парк;Большая Филевская ;4;Фили;Only
+Юлия Кутина;realtor;https://www.cian.ru/sale/flat/315380052/;Москва;sale;flat;14;15;3;73.0;22500000;Рязанский; Михайлова;39;Окская;
+Ольга Гусева;realtor;https://www.cian.ru/sale/flat/310574157/;Москва;sale;flat;4;17;1;38.0;10900000;Теплый Стан; Теплый Стан;13К1;Генерала Тюленева;
+Алексей Валицкий;realtor;https://www.cian.ru/sale/flat/303325453/;Москва;sale;flat;15;19;3;75.0;27500000;Кунцево;Бобруйская ;12;Молодёжная;
+ID 40052950;realtor;https://www.cian.ru/sale/flat/313991733/;Москва;sale;flat;6;16;1;37.2;13200000;Строгино;Таллинская ;2;Строгино;
+Елена Николайчук;realtor;https://www.cian.ru/sale/flat/315459879/;Москва;sale;flat;17;22;1;38.6;15500000;Ломоносовский; Академика Пилюгина;26К1;Новаторская;
+ТАНДЕМ;real_estate_agent;https://www.cian.ru/sale/flat/314632399/;Москва;sale;flat;14;14;3;74.4;15499999;Южное Бутово; Адмирала Лазарева;58;Бунинская аллея;
+Кремлёвские Ключи;real_estate_agent;https://www.cian.ru/sale/flat/306893892/;Москва;sale;flat;2;24;3;87.6;30490000;Дмитровский;Дмитровское шоссе;107к3;Яхромская;Летний сад
+MONOPOLY;real_estate_agent;https://www.cian.ru/sale/flat/313344628/;Москва;sale;flat;13;17;2;58.0;12500000;Братеево; Борисовские Пруды;28/1;Алма-Атинская;
+ID 21025;real_estate_agent;https://www.cian.ru/sale/flat/314468761/;Москва;sale;flat;5;11;1;53.0;28900000;Раменки;Мичуринский проспект;7;Ломоносовский проспект;Квартал Шуваловский
+Парадайс;real_estate_agent;https://www.cian.ru/sale/flat/315027221/;Москва;sale;flat;7;9;1;38.7;13600000;Коптево;3-й Михалковский переулок;24;Коптево;
+Elite Real Estate Moscow;real_estate_agent;https://www.cian.ru/sale/flat/313625812/;Москва;sale;flat;15;22;3;74.2;25500000;Обручевский; Саморы Машела;8к3;Университет Дружбы Народов;
+ID 47664046;unknown;https://www.cian.ru/sale/flat/313289271/;Москва;sale;flat;9;12;3;62.0;20400000;Нагатинский затон;Коломенская ;9;Нагатинский Затон;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/315064011/;Москва;sale;flat;11;24;1;38.1;18000000;Ломоносовский;проспект Вернадского;29к1;Проспект Вернадского;
+ВРЕМЯ РЕШЕНИЙ;real_estate_agent;https://www.cian.ru/sale/flat/308856199/;Москва;sale;flat;8;9;4;63.1;15000000;Ясенево; Рокотова;8К2;Ясенево;
+Ордер;real_estate_agent;https://www.cian.ru/sale/flat/298431321/;Москва;sale;flat;2;17;1;36.2;9950000;Бирюлево Восточное;Загорьевская ;21к1;Лебедянская;
+ID 13398631;realtor;https://www.cian.ru/sale/flat/315115790/;Москва;sale;flat;6;17;1;38.5;10990000;Рязанский; Академика Скрябина;6К2;Рязанский проспект;
+Елена Шевченко;realtor;https://www.cian.ru/sale/flat/315386337/;Москва;sale;flat;6;17;1;37.5;11700000;Орехово-Борисово Северное; Маршала Захарова;12К3;Орехово;
+ID 103052304;unknown;https://www.cian.ru/sale/flat/314950948/;Москва;sale;flat;3;22;2;56.6;23700000;Бескудниковский;Дубнинская ;37К2;Дегунино;
+NEWPOLIS;real_estate_agent;https://www.cian.ru/sale/flat/313951734/;Москва;sale;flat;4;17;3;73.0;15600000;Некрасовка;Рождественская ;12;Некрасовка;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/315501735/;Москва;sale;flat;3;17;1;37.3;10700000;Чертаново Северное;Варшавское шоссе;114К1;Чертановская;
+City Nova Group;real_estate_agent;https://www.cian.ru/sale/flat/309585251/;Москва;sale;flat;14;17;1;37.0;10100000;Восточное Дегунино;Дубнинская ;32К6;Бескудниково;
+Вертикаль;real_estate_agent;https://www.cian.ru/sale/flat/313481720/;Москва;sale;flat;10;25;1;42.0;13500000;Митино;Пятницкое шоссе;15к1;Волоколамская;Митинский парк
+ID 211910;realtor;https://www.cian.ru/sale/flat/314916798/;Москва;sale;flat;5;17;1;40.0;11200000;Солнцево; Главмосстроя;9;Говорово;
+Парадайс;real_estate_agent;https://www.cian.ru/sale/flat/313939217/;Москва;sale;flat;16;16;1;37.0;20500000;Красносельский;Большая Спасская ;10К1;Площадь трёх вокзалов;
+НДВ;real_estate_agent;https://www.cian.ru/sale/flat/314943071/;Москва;sale;flat;5;17;2;50.2;17800000;Савеловский;Бутырская ;79;Дмитровская;
+ID 1580;realtor;https://www.cian.ru/sale/flat/314975758/;Москва;sale;flat;10;17;1;37.8;9150000;Марьино; Маршала Голованова;1;Марьино;
+Ключи;real_estate_agent;https://www.cian.ru/sale/flat/311770783/;Москва;sale;flat;5;17;3;75.0;20000000;Чертаново Северное;Варшавское шоссе;122;Южная;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/314779816/;Москва;sale;flat;2;17;2;56.9;20250000;Очаково-Матвеевское;Матвеевская ;11;Аминьевская;
+На Петровке;real_estate_agent;https://www.cian.ru/sale/flat/311620530/;Москва;sale;flat;6;9;1;40.7;12000000;Кузьминки;Волжский бульвар;29К2;Кузьминки;
+МИЭЛЬ;real_estate_agent;https://www.cian.ru/sale/flat/313244594/;Москва;sale;flat;3;12;1;38.6;12650000;; Самуила Маршака;16;Рассказовка;Переделкино Ближнее Город-парк
+ID 52954711;realtor;https://www.cian.ru/sale/flat/312574570/;Москва;sale;flat;4;19;2;64.0;15200000;Некрасовка; Лавриненко;3;Некрасовка;Некрасовка
+Ольга Косых;realtor;https://www.cian.ru/sale/flat/315513644/;Москва;sale;flat;12;12;2;52.8;15000000;Бибирево;Мурановская ;10;Алтуфьево;
+МРИЭЛТОР - офис Отрадное;real_estate_agent;https://www.cian.ru/sale/flat/307549514/;Москва;sale;flat;14;17;2;50.2;15990000;Бабушкинский; Менжинского;23к2;Бабушкинская;
+WHITE BROKER;real_estate_agent;https://www.cian.ru/sale/flat/311190905/;Москва;sale;flat;5;17;3;73.8;20000000;Чертаново Северное;Варшавское шоссе;122;Южная;
+Маленков недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/313788463/;Москва;sale;flat;16;16;1;40.0;11500000;Западное Дегунино; Маршала Федоренко;16/2к1;Ховрино;
+ID 125085558;homeowner;https://www.cian.ru/sale/flat/314904381/;Москва;sale;flat;16;17;1;38.5;13800000;Орехово-Борисово Южное;Гурьевский проезд;31К2;Зябликово;
+Stapler Estate;real_estate_agent;https://www.cian.ru/sale/flat/313933519/;Москва;sale;flat;12;14;3;75.0;35000000;Академический;Новочеремушкинская ;23;Академическая;
+ID 128711241;homeowner;https://www.cian.ru/sale/flat/314885213/;Москва;sale;flat;6;23;2;54.0;21950000;Проспект Вернадского;Ленинский проспект;134;Новаторская;
+CENTURY 21 Level;real_estate_agent;https://www.cian.ru/sale/flat/315551087/;Москва;sale;flat;22;22;4;100.2;39900000;Обручевский; Новаторов;36К1;Новаторская;
+Isaev Estate;real_estate_agent;https://www.cian.ru/sale/flat/313385307/;Москва;sale;flat;11;22;3;81.0;25690000;Крылатское; Крылатские Холмы;26К1;Крылатское;
+Сити Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/307020697/;Москва;sale;flat;14;14;1;38.0;9800000;Новокосино;Новокосинская ;14К6;Новокосино;
+ID 19579738;homeowner;https://www.cian.ru/sale/flat/313485608/;Москва;sale;flat;16;16;3;65.8;22000000;Северное Медведково;Широкая ;25/24;Медведково;
+ID 77863494;homeowner;https://www.cian.ru/sale/flat/315000463/;Москва;sale;flat;10;16;1;38.2;12000000;Зябликово; Мусы Джалиля;29К1;Красногвардейская;
+ID 106805596;homeowner;https://www.cian.ru/sale/flat/314775650/;Москва;sale;flat;14;17;2;56.7;15500000;; Ясная;1;Коммунарка;
+ID 87342212;homeowner;https://www.cian.ru/sale/flat/313091829/;Москва;sale;flat;8;16;2;54.0;21700000;Тропарево-Никулино;улица Мичуринский проспект Олимпийская деревня;19;Озёрная;
+ИНФИНИТИ;real_estate_agent;https://www.cian.ru/sale/flat/312556332/;Москва;sale;flat;15;25;1;39.0;9500000;Некрасовка;Рождественская ;33;Некрасовка;Некрасовка
+Isaev Estate;real_estate_agent;https://www.cian.ru/sale/flat/312939902/;Москва;sale;flat;6;17;3;81.0;27900000;Коньково;Миклухо-Маклая ;30;Беляево;
+Иван Горностаев;realtor;https://www.cian.ru/sale/flat/313586599/;Москва;sale;flat;12;16;3;135.0;41600000;Зюзино; Каховка;25;Зюзино;
+Монолит;real_estate_agent;https://www.cian.ru/sale/flat/314937311/;Москва;sale;flat;4;9;3;59.0;13900000;Ясенево; Паустовского;3;Ясенево;
+Альбина Максютова;realtor;https://www.cian.ru/sale/flat/311064771/;Москва;sale;flat;2;14;2;57.2;19700000;Нагатинский затон;Судостроительная ;17;Коломенская;
+Вертикаль;real_estate_agent;https://www.cian.ru/sale/flat/314578849/;Москва;sale;flat;18;22;3;111.0;46000000;Теплый Стан; Островитянова;4;Тропарёво;
+ID 113459773;homeowner;https://www.cian.ru/sale/flat/311017896/;Москва;sale;flat;2;13;4;104.4;28490000;Новогиреево;Перовская ;66к4;Кусково;Большое Кусково
+Isaev Estate;real_estate_agent;https://www.cian.ru/sale/flat/312416748/;Москва;sale;flat;10;10;4;83.6;39999999;Северное Тушино; Свободы;75К3;Планерная;
+RMRealty;real_estate_agent;https://www.cian.ru/sale/flat/314792037/;Москва;sale;flat;12;38;2;62.0;34500000;Щукино;Авиационная ;77к2;Щукинская;Алые Паруса
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/315108941/;Москва;sale;flat;2;22;1;33.0;11000000;Братеево; Борисовские Пруды;10К6;Борисово;
+Антон Осмелкин;realtor;https://www.cian.ru/sale/flat/315466008/;Москва;sale;flat;16;22;2;57.6;25500000;Академический; Винокурова;12к5;Академическая;
+Isaev Estate;real_estate_agent;https://www.cian.ru/sale/flat/313903337/;Москва;sale;flat;3;22;2;55.0;20800000;Раменки;Мичуринский проспект;58;Мичуринский проспект;
+Apple Real Estate;real_estate_agent;https://www.cian.ru/sale/flat/312675530/;Москва;sale;flat;13;22;2;98.0;48500000;Щукино;Авиационная ;79;Щукинская;Алые Паруса
+Sweet Home;real_estate_agent;https://www.cian.ru/sale/flat/313400297/;Москва;sale;flat;17;24;3;80.0;25000000;Можайский; Толбухина;11К2;Сетунь;
+Станислава Яткевич;realtor;https://www.cian.ru/sale/flat/315559152/;Москва;sale;flat;3;14;2;52.0;16300000;Дмитровский;Яхромская ;6;Яхромская;
+РЕЗУЛЬТАТ;real_estate_agent;https://www.cian.ru/sale/flat/310871168/;Москва;sale;flat;6;9;3;58.4;12750000;Ясенево;Голубинская ;13К1;Ясенево;
+Isaev Estate;real_estate_agent;https://www.cian.ru/sale/flat/314348147/;Москва;sale;flat;8;17;3;75.2;21500000;Богородское;Краснобогатырская ;79;Преображенская площадь;
+Isaev Estate;real_estate_agent;https://www.cian.ru/sale/flat/312706135/;Москва;sale;flat;12;16;3;77.0;28000000;Академический;проспект 60-летия Октября;19;Академическая;
+Лариса Поликарпова;realtor;https://www.cian.ru/sale/flat/312945014/;Москва;sale;flat;6;14;1;38.1;9600000;Выхино-Жулебино;Привольная ;71К1;Жулебино;
+На Петровке;real_estate_agent;https://www.cian.ru/sale/flat/313910909/;Москва;sale;flat;4;17;2;51.1;13400000;Некрасовка;Покровская ;23;Некрасовка;Некрасовка-Парк
+МИРКОМ;real_estate_agent;https://www.cian.ru/sale/flat/313231852/;Москва;sale;flat;22;23;3;79.0;37300000;Лефортово;Красноказарменная ;14Ак2;Авиамоторная;Пётр I
+Лунный Свет;real_estate_agent;https://www.cian.ru/sale/flat/311184398/;Москва;sale;flat;2;12;2;54.2;15300000;Отрадное; Санникова;11к1;Отрадное;
+Навигатор;real_estate_agent;https://www.cian.ru/sale/flat/308945722/;Москва;sale;flat;11;17;1;38.0;10285000;Восточное Дегунино;Керамический проезд;45К2;Дегунино;
+ИНФИНИТИ;real_estate_agent;https://www.cian.ru/sale/flat/305868670/;Москва;sale;flat;6;23;1;38.0;11900000;Солнцево; Главмосстроя;7;Говорово;
+Лариса Поликарпова;realtor;https://www.cian.ru/sale/flat/301435145/;Москва;sale;flat;6;9;3;50.0;13500000;Покровское-Стрешнево; Габричевского;8К2;Щукинская;
+ГОРОБМЕН;real_estate_agent;https://www.cian.ru/sale/flat/315436790/;Москва;sale;flat;10;17;1;38.0;12000000;Люблино;Цимлянская ;14;Люблино;
+ПРОСПЕКТ;real_estate_agent;https://www.cian.ru/sale/flat/314258796/;Москва;sale;flat;6;9;1;33.1;12199900;Лианозово;Илимская ;2к1;Лианозово;
+Гост-Гарант;real_estate_agent;https://www.cian.ru/sale/flat/314881796/;Москва;sale;flat;2;16;2;51.9;13700000;Лианозово;Череповецкая ;7;Алтуфьево;
+ИНФИНИТИ;real_estate_agent;https://www.cian.ru/sale/flat/314878241/;Москва;sale;flat;14;17;1;40.0;12700000;Орехово-Борисово Южное;Воронежская ;9;Домодедовская;
+ГОРОБМЕН;real_estate_agent;https://www.cian.ru/sale/flat/314953225/;Москва;sale;flat;2;14;1;41.0;12770000;Новогиреево;Перовская ;66к2;Кусково;Большое Кусково
+Upright Estate;real_estate_agent;https://www.cian.ru/sale/flat/315083505/;Москва;sale;flat;8;17;1;38.0;13000000;Крылатское;Рублевское шоссе;38К2;Крылатское;
+МИРА;real_estate_agent;https://www.cian.ru/sale/flat/315139312/;Москва;sale;flat;11;12;2;54.3;13500000;Косино-Ухтомский;Святоозерская ;9;Лухмановская;
+Isaev Estate;real_estate_agent;https://www.cian.ru/sale/flat/314857334/;Москва;sale;flat;6;9;2;51.0;13900000;Дмитровский;Карельский бульвар;5;Лианозово;
+MosDomEstate;real_estate_agent;https://www.cian.ru/sale/flat/311741501/;Москва;sale;flat;12;22;1;38.1;13800000;Марьина роща;Шереметьевская ;27;Марьина Роща;
+ГОРОБМЕН;real_estate_agent;https://www.cian.ru/sale/flat/313588401/;Москва;sale;flat;14;15;2;53.5;13999000;Северное Бутово; Грина;1К4;Бульвар Дмитрия Донского;
+CENTURY 21 Перспектива;real_estate_agent;https://www.cian.ru/sale/flat/310784831/;Москва;sale;flat;3;17;2;50.6;14100000;Люблино;Цимлянская ;14;Люблино;
+Юлия Кудрявцева;realtor;https://www.cian.ru/sale/flat/312377269/;Москва;sale;flat;11;17;1;37.6;9250000;Братеево; Борисовские Пруды;34К1;Алма-Атинская;
+ID 66178253;unknown;https://www.cian.ru/sale/flat/315518050/;Москва;sale;flat;14;17;2;66.4;19500000;Марьино;Донецкая ;20к1;Курьяново;
+Isaev Estate;real_estate_agent;https://www.cian.ru/sale/flat/315244675/;Москва;sale;flat;5;17;3;75.0;18900000;Северный;9-я Северная линия;17;Физтех;
+Любимый дом;real_estate_agent;https://www.cian.ru/sale/flat/314690244/;Москва;sale;flat;2;12;1;34.0;9500000;Северное Бутово; Грина;34;Бульвар Дмитрия Донского;
+ID 18242;real_estate_agent;https://www.cian.ru/sale/flat/313779154/;Москва;sale;flat;17;17;2;52.3;19500000;Черемушки;Новочеремушкинская ;66к1;Новые Черёмушки;
+ИНФИНИТИ;real_estate_agent;https://www.cian.ru/sale/flat/315114171/;Москва;sale;flat;8;12;2;52.5;12300000;Люблино;Тихорецкий бульвар;4К1;Люблино;
+CENTURY 21 Перспектива;real_estate_agent;https://www.cian.ru/sale/flat/312419131/;Москва;sale;flat;5;14;3;79.9;22000000;Косино-Ухтомский; Дмитриевского;7;Улица Дмитриевского;
+ИНФИНИТИ;real_estate_agent;https://www.cian.ru/sale/flat/314878251/;Москва;sale;flat;6;17;1;37.7;14500000;Измайлово;Измайловский бульвар;40;Первомайская;
+ID 1580;realtor;https://www.cian.ru/sale/flat/315313622/;Москва;sale;flat;16;17;1;36.4;10500000;Марьино; Маршала Голованова;13;Марьино;
+БЕСТ на Проспекте Мира;real_estate_agent;https://www.cian.ru/sale/flat/314809887/;Москва;sale;flat;14;17;2;53.6;17700000;Крылатское;Осенняя ;22;Крылатское;
+Isaev Estate;real_estate_agent;https://www.cian.ru/sale/flat/315196623/;Москва;sale;flat;3;12;3;62.0;18990000;Алтуфьевский;Бибиревская ;17;Бибирево;
+Практик;real_estate_agent;https://www.cian.ru/sale/flat/313490605/;Москва;sale;flat;15;16;2;55.7;15299000;Бабушкинский;Енисейская ;21;Бабушкинская;
+EstateLiga;real_estate_agent;https://www.cian.ru/sale/flat/313456468/;Москва;sale;flat;8;17;1;37.0;14200000;Теплый Стан;Профсоюзная ;128;Коньково;
+МАРИМАКС;real_estate_agent;https://www.cian.ru/sale/flat/315405243/;Москва;sale;flat;12;14;1;38.6;10500000;Косино-Ухтомский; Дмитриевского;23;Лухмановская;
+Monumental Group;real_estate_agent;https://www.cian.ru/sale/flat/313785034/;Москва;sale;flat;12;12;3;75.5;25000000;Марьино;Братиславская ;8;Братиславская;
+ID 68146315;unknown;https://www.cian.ru/sale/flat/315190108/;Москва;sale;flat;3;14;2;53.0;15200000;Новокосино;Суздальская ;14К1;Новокосино;
+Иван Козеев;realtor;https://www.cian.ru/sale/flat/315363443/;Москва;sale;flat;2;17;2;68.8;15500000;Косино-Ухтомский; Наташи Качуевской;4;Улица Дмитриевского;
+ID 91316823;realtor;https://www.cian.ru/sale/flat/312059435/;Москва;sale;flat;13;16;1;37.3;18500000;Даниловский;Автозаводская ;23С120;ЗИЛ;Парк Легенд
+ID 11700744;realtor;https://www.cian.ru/sale/flat/276810800/;Москва;sale;flat;12;18;2;56.6;17000000;Западное Дегунино;Базовская ;15к4;Грачёвская;На Базовской
+Диалог Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/315340952/;Москва;sale;flat;3;17;2;54.2;14500000;Митино;Пятницкое шоссе;37;Пятницкое шоссе;
+Навигатор;real_estate_agent;https://www.cian.ru/sale/flat/315153797/;Москва;sale;flat;5;9;3;60.0;18300000;Черемушки; Цюрупы;15К3;Новые Черёмушки;
+Estwig-недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/314404869/;Москва;sale;flat;10;17;1;38.1;9150000;Выхино-Жулебино;Привольная ;13К1;Лермонтовский проспект;
+ID 336077;realtor;https://www.cian.ru/sale/flat/314483738/;Москва;sale;flat;14;16;2;53.5;14380000;Митино;Уваровский переулок;7;Пенягино;
+ID 107641596;unknown;https://www.cian.ru/sale/flat/312520042/;Москва;sale;flat;14;17;2;52.0;15990000;Бабушкинский; Менжинского;23к2;Бабушкинская;
+Андрей Руднев;realtor;https://www.cian.ru/sale/flat/315141635/;Москва;sale;flat;14;14;1;37.0;12000000;Северное Медведково; Тихомирова;2;Медведково;
+ID 978148;realtor;https://www.cian.ru/sale/flat/315261199/;Москва;sale;flat;3;9;3;59.3;16800000;Отрадное; Бестужевых;21Б;Отрадное;
+Альтернатива;real_estate_agent;https://www.cian.ru/sale/flat/305017887/;Москва;sale;flat;16;16;-1;58.1;9000000;Нагатинский затон;Коломенская набережная;6К1;Нагатинский Затон;
+CENTURY 21 Перспектива;real_estate_agent;https://www.cian.ru/sale/flat/314600436/;Москва;sale;flat;5;9;4;62.6;18000000;Орехово-Борисово Северное;Ореховый бульвар;23К1;Домодедовская;
+Isaev Estate;real_estate_agent;https://www.cian.ru/sale/flat/315039048/;Москва;sale;flat;12;13;2;42.0;33500000;Беговой;Ленинградский проспект;29к4;Динамо;Царская площадь
+Самолет Плюс;real_estate_agent;https://www.cian.ru/sale/flat/315560403/;Москва;sale;flat;9;17;1;50.9;11300000;; Сосенский Стан;10;Новомосковская;
+Станислав Прозоров;realtor;https://www.cian.ru/sale/flat/315500178/;Москва;sale;flat;4;12;1;38.0;10500000;Южное Бутово; Адмирала Лазарева;40;Улица Горчакова;
+GENESIS BROKERS;real_estate_agent;https://www.cian.ru/sale/flat/314502910/;Москва;sale;flat;21;24;3;77.5;16000000;Некрасовка; Вертолетчиков;2Ак2;Некрасовка;В Некрасовке-2 (1 очередь)
+Isaev Estate;real_estate_agent;https://www.cian.ru/sale/flat/315402591/;Москва;sale;flat;14;17;2;60.6;20590000;Северный;Дмитровское шоссе;169К7;Физтех;На Дмитровском 169
+ID 49239210;realtor;https://www.cian.ru/sale/flat/312753420/;Москва;sale;flat;14;17;3;100.5;30900000;Северное Медведково;Студеный проезд;14;Медведково;
+ИНФИНИТИ;real_estate_agent;https://www.cian.ru/sale/flat/314878263/;Москва;sale;flat;2;17;2;53.3;15500000;Чертаново Южное;Варшавское шоссе;152К8;Улица Академика Янгеля;
+Простор-недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/315397178/;Москва;sale;flat;7;17;1;38.0;11700000;Митино;переулок Ангелов;2;Пятницкое шоссе;
+ID 685081;homeowner;https://www.cian.ru/sale/flat/279167082/;Москва;sale;flat;11;21;2;50.0;26000000;Филевский парк;Береговой проезд;5к3;Фили;Фили Град
+ID 94020714;homeowner;https://www.cian.ru/sale/flat/314700433/;Москва;sale;flat;2;16;2;50.2;22500000;Хорошевский;Хорошевское шоссе;24;Беговая;
+Офис Чертановский. Гильдия Риэлторов Москвы;real_estate_agent;https://www.cian.ru/sale/flat/315191976/;Москва;sale;flat;3;14;1;39.0;11490000;Марьино;Мячковский бульвар;16К1;Марьино;
+ID 47568672;homeowner;https://www.cian.ru/sale/flat/280575217/;Москва;sale;flat;4;14;3;64.5;21300000;Нагорный;Фруктовая ;8К2;Нахимовский проспект;
+ID 126920420;homeowner;https://www.cian.ru/sale/flat/314932872/;Москва;sale;flat;2;14;4;86.0;27000000;Академический;Большая Черемушкинская ;2К6;Крымская;
+Жилищная стратегия;real_estate_agent;https://www.cian.ru/sale/flat/315245969/;Москва;sale;flat;16;17;2;51.7;12500000;Южное Бутово; Адмирала Лазарева;57;Бунинская аллея;
+ID 118814003;homeowner;https://www.cian.ru/sale/flat/304489548/;Москва;sale;flat;17;17;3;72.7;19890000;Солнцево; Щорса;2;Солнцево;
+ID 27876563;homeowner;https://www.cian.ru/sale/flat/307809480/;Москва;sale;flat;15;17;3;76.0;19900000;Некрасовка;проспект Защитников Москвы;8;Некрасовка;Некрасовка-Парк
+Алексей Шебалов;realtor;https://www.cian.ru/sale/flat/315278874/;Москва;sale;flat;4;19;2;51.0;12300000;Некрасовка; Липчанского;8;Некрасовка;Некрасовка
+ID 73491595;homeowner;https://www.cian.ru/sale/flat/314774541/;Москва;sale;flat;15;17;2;51.2;14300000;Алтуфьевский;Стандартная ;21к1;Бескудниково;
+ID 95979969;homeowner;https://www.cian.ru/sale/flat/315278562/;Москва;sale;flat;14;19;1;45.9;10950000;Северный;Дмитровское шоссе;169К8;Физтех;На Дмитровском 169
+Яля Дуплинская;realtor;https://www.cian.ru/sale/flat/315150942/;Москва;sale;flat;4;17;2;53.7;13600000;Ново-Переделкино;Боровское шоссе;21;Боровское шоссе;
+Ирина Воропаева;realtor;https://www.cian.ru/sale/flat/312198641/;Москва;sale;flat;10;12;2;52.3;18800000;Нагатинский затон;Коломенская ;19;Нагатинский Затон;
+Ася Шаинян;realtor;https://www.cian.ru/sale/flat/313599599/;Москва;sale;flat;6;17;1;37.9;10500000;Западное Дегунино;Базовская ;12;Грачёвская;
+Центральная Ипотечная Корпорация;real_estate_agent;https://www.cian.ru/sale/flat/314773615/;Москва;sale;flat;16;16;1;36.0;10200000;Люблино;Ставропольская ;34;Люблино;
+Жанна Кочергина;realtor;https://www.cian.ru/sale/flat/310794167/;Москва;sale;flat;17;19;1;38.0;10500000;Некрасовка;проспект Защитников Москвы;8;Некрасовка;Некрасовка-Парк
+РОСБАНК;real_estate_agent;https://www.cian.ru/sale/flat/311434393/;Москва;sale;flat;4;9;2;42.7;10300000;Солнцево;Солнцевский проспект;5К1;Солнцево;
+Академия жилья;real_estate_agent;https://www.cian.ru/sale/flat/312929927/;Москва;sale;flat;17;17;1;38.1;10500000;Северное Бутово;Старокачаловская ;3К1;Улица Старокачаловская;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/312771757/;Москва;sale;flat;9;17;1;37.6;10500000;Митино;переулок Ангелов;11;Пятницкое шоссе;
+PRO.КOMPLEX;real_estate_agent;https://www.cian.ru/sale/flat/315562580/;Москва;sale;flat;11;15;1;31.3;10500000;; Василия Ощепкова;2;Новомосковская;Москвичка
+Марина Климова;realtor;https://www.cian.ru/sale/flat/314841524/;Москва;sale;flat;11;12;1;39.1;10500000;Восточное Дегунино;Дубнинская ;24К4;Бескудниково;
+Регина Васильченко;realtor;https://www.cian.ru/sale/flat/310744492/;Москва;sale;flat;2;17;1;37.7;10500000;Западное Дегунино;Базовская ;10;Грачёвская;
+Прайм Самолет Плюс;real_estate_agent;https://www.cian.ru/sale/flat/314877890/;Москва;sale;flat;8;16;1;37.4;10430000;Выхино-Жулебино;Ташкентская ;23К4;Юго-Восточная;
+CENTURY 21 Перспектива;real_estate_agent;https://www.cian.ru/sale/flat/315368224/;Москва;sale;flat;4;10;1;38.5;10500000;Выхино-Жулебино;Привольная ;27К1;Лермонтовский проспект;
+Selenahome;real_estate_agent;https://www.cian.ru/sale/flat/306682640/;Москва;sale;flat;14;16;1;36.6;10500000;Лианозово;Череповецкая ;10;Лианозово;
+Самолет Плюс Москва ЮГ;real_estate_agent;https://www.cian.ru/sale/flat/311616260/;Москва;sale;flat;3;12;1;40.7;10500000;Текстильщики; 8-я Текстильщиков;7В;Текстильщики;
+Геннадий Картавцев;realtor;https://www.cian.ru/sale/flat/313168468/;Москва;sale;flat;5;17;1;37.7;10600000;Братеево;Братеевская ;10К1;Алма-Атинская;
+Оксана Иванова;realtor;https://www.cian.ru/sale/flat/314955701/;Москва;sale;flat;16;17;1;38.0;10700000;Некрасовка; Лавриненко;5;Некрасовка;Некрасовка
+Игорь Лабойко;realtor;https://www.cian.ru/sale/flat/309303507/;Москва;sale;flat;9;9;3;70.0;10500000;; Труда;15;Кокошкино;
+Наталья Андреева;realtor;https://www.cian.ru/sale/flat/315388536/;Москва;sale;flat;8;17;2;54.0;10700000;;проспект Нововатутинский;9;Кедровая;Новые Ватутинки, мкр. Центральный
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/313870801/;Москва;sale;flat;13;25;1;38.4;10700000;Некрасовка; Вертолетчиков;1;Некрасовка;Некрасовка
+Самолет Плюс;real_estate_agent;https://www.cian.ru/sale/flat/315558511/;Москва;sale;flat;17;17;1;38.0;10500000;Северное Бутово;Куликовская ;7;Бульвар Дмитрия Донского;
+Ирина Глазунова;realtor;https://www.cian.ru/sale/flat/279013304/;Москва;sale;flat;14;17;1;39.0;10650000;Выхино-Жулебино;Лермонтовский проспект;14К1;Лермонтовский проспект;
+Прайм Самолет Плюс;real_estate_agent;https://www.cian.ru/sale/flat/313479721/;Москва;sale;flat;9;17;1;39.0;10510000;Люблино;Цимлянская ;28;Люблино;
+Риэлт-сити МИР;real_estate_agent;https://www.cian.ru/sale/flat/304255743/;Москва;sale;flat;9;17;1;38.0;10890000;Москворечье-Сабурово;Каширское шоссе;55К2;Москворечье;
+Александр Рытов;realtor;https://www.cian.ru/sale/flat/312189373/;Москва;sale;flat;6;12;1;40.6;10850000;Новогиреево;Зеленый проспект;62К3;Новогиреево;
+Самолет Плюс Москва ЦАО;real_estate_agent;https://www.cian.ru/sale/flat/314784282/;Москва;sale;flat;8;9;3;53.0;9980000;;;30;Троицк;
+Юлия Куленкамп;realtor;https://www.cian.ru/sale/flat/314715977/;Москва;sale;flat;15;17;1;37.0;12900000;Коньково; Островитянова;34К2;Коньково;
+Сергей Назаренко;realtor;https://www.cian.ru/sale/flat/314641351/;Москва;sale;flat;16;25;2;44.0;12900000;Ново-Переделкино;Лукинская ;10;Переделкино;
+CENTURY 21 Столичная недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/315060288/;Москва;sale;flat;16;17;1;37.8;10000000;Северное Бутово;Коктебельская ;2К1;Бульвар Дмитрия Донского;
+ИП Третьяков Д. О.;real_estate_agent;https://www.cian.ru/sale/flat/315047349/;Москва;sale;flat;10;12;2;53.6;12800000;Косино-Ухтомский;Святоозерская ;21;Лухмановская;
+Тамара Самохина;realtor;https://www.cian.ru/sale/flat/308102342/;Москва;sale;flat;2;12;2;55.0;12800000;Южное Бутово;Южнобутовская ;50;Улица Горчакова;
+Иван Горностаев;realtor;https://www.cian.ru/sale/flat/313594157/;Москва;sale;flat;2;5;3;53.0;10000000;Южное Бутово;1-я Мелитопольская ;30А;Бутово;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/314021469/;Москва;sale;flat;4;9;1;39.0;11700000;Митино;Митинская ;15;Митино;
+Марина Стужук;realtor;https://www.cian.ru/sale/flat/314598888/;Москва;sale;flat;4;12;2;52.2;12500000;Люблино;Тихорецкий бульвар;6;Люблино;
+Эльвира Ланцова;realtor;https://www.cian.ru/sale/flat/306838830/;Москва;sale;flat;2;12;1;39.1;10000000;Северное Бутово; Академика Глушко;14К1;Улица Старокачаловская;
+Нина Коваленко;realtor;https://www.cian.ru/sale/flat/315551265/;Москва;sale;flat;11;17;2;59.8;14700000;Марьино; Маршала Голованова;7;Марьино;
+Михаил Смирнов;realtor;https://www.cian.ru/sale/flat/312012349/;Москва;sale;flat;5;9;3;50.0;12800000;Восточное Дегунино;Дубнинская ;20К2;Дегунино;
+МГН-495;real_estate_agent;https://www.cian.ru/sale/flat/315051875/;Москва;sale;flat;9;19;1;31.5;10000000;Некрасовка; Недорубова;18к3;Некрасовка;Некрасовка
+Юрий Вахнин;realtor;https://www.cian.ru/sale/flat/314508815/;Москва;sale;flat;12;16;1;37.5;12100000;Нагатинский затон;Коломенская набережная;14;Нагатинский Затон;
+Марина Родненко;realtor;https://www.cian.ru/sale/flat/314925792/;Москва;sale;flat;8;9;2;43.8;12000000;Северное Тушино; Свободы;65к1;Сходненская;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/312135015/;Москва;sale;flat;2;16;1;37.5;10000000;Западное Дегунино;Краснополянская ;6К2;Ховрино;
+Юлия Колчеева;realtor;https://www.cian.ru/sale/flat/315551706/;Москва;sale;flat;11;16;1;42.3;15200000;Черемушки; Наметкина;13к2;Новые Черёмушки;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/314747412/;Москва;sale;flat;6;9;4;62.7;15300000;Отрадное; Пестеля;8А;Отрадное;
+БЕСТ-Недвижимость на Баррикадной;real_estate_agent;https://www.cian.ru/sale/flat/309682083/;Москва;sale;flat;7;17;1;38.0;10100000;Западное Дегунино;Ангарская ;16;Грачёвская;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/315558949/;Москва;sale;flat;3;14;2;51.3;15000000;Бабушкинский;Олонецкий проезд;18К1;Бабушкинская;
+Елена Лактюшина;realtor;https://www.cian.ru/sale/flat/314483581/;Москва;sale;flat;5;17;1;37.0;13500000;Свиблово;проезд Берингов;1;Свиблово;
+Елизавета Кондрашова;realtor;https://www.cian.ru/sale/flat/309834099/;Москва;sale;flat;4;17;1;33.5;10100000;Люблино;Новороссийская ;25К1;Люблино;
+Ирина Шугаева;realtor;https://www.cian.ru/sale/flat/312036234/;Москва;sale;flat;6;23;1;36.4;13500000;Крылатское;Рублевское шоссе;44К1;Крылатское;
+Неон Сити;real_estate_agent;https://www.cian.ru/sale/flat/315313464/;Москва;sale;flat;3;17;1;36.7;11100000;Митино;переулок Ангелов;6;Пятницкое шоссе;
+ОГРК;real_estate_agent;https://www.cian.ru/sale/flat/314530801/;Москва;sale;flat;12;17;1;38.0;10100000;Некрасовка;проспект Защитников Москвы;13;Некрасовка;
+Арина Дашкевич;realtor;https://www.cian.ru/sale/flat/308935869/;Москва;sale;flat;5;14;2;50.4;12200000;Северное Бутово;Старобитцевская ;7;Бульвар Дмитрия Донского;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/313530615/;Москва;sale;flat;11;17;1;38.0;14200000;Нагорный;Симферопольский бульвар;29К1;Чертановская;
+Александр Яковлев;realtor;https://www.cian.ru/sale/flat/315478981/;Москва;sale;flat;15;22;1;38.1;11000000;Южное Бутово;Южнобутовская ;12;Бульвар Адмирала Ушакова;
+Планета Недвижимости;real_estate_agent;https://www.cian.ru/sale/flat/312578937/;Москва;sale;flat;5;16;2;52.2;12600000;Отрадное;Алтуфьевское шоссе;7;Владыкино;
+REPLACE;real_estate_agent;https://www.cian.ru/sale/flat/306613156/;Москва;sale;flat;2;9;3;55.2;9800000;; Пушкинская;6;Щербинка;
+Татьяна Чикирёва;realtor;https://www.cian.ru/sale/flat/315519779/;Москва;sale;flat;3;9;2;44.7;13500000;Отрадное;Северный бульвар;12Б;Отрадное;
+Moscow Estate;real_estate_agent;https://www.cian.ru/sale/flat/311347291/;Москва;sale;flat;12;12;1;38.9;10800000;Орехово-Борисово Южное;Елецкая ;8К2;Домодедовская;
+New Day Realty;real_estate_agent;https://www.cian.ru/sale/flat/314571534/;Москва;sale;flat;7;17;2;51.0;15500000;Ховрино;Зеленоградская ;27К2;Ховрино;
+Мой Дом - отделение Добрынинское;real_estate_agent;https://www.cian.ru/sale/flat/315024797/;Москва;sale;flat;6;17;1;37.8;10950000;Западное Дегунино;Базовская ;12;Грачёвская;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/314302665/;Москва;sale;flat;3;16;1;37.5;11000000;Чертаново Южное;Варшавское шоссе;158К1;Аннино;
+ОГРК;real_estate_agent;https://www.cian.ru/sale/flat/315502303/;Москва;sale;flat;16;16;1;36.8;11400000;Теплый Стан; Теплый Стан;23;Генерала Тюленева;
+Полина Малинина;realtor;https://www.cian.ru/sale/flat/314606580/;Москва;sale;flat;9;14;1;38.4;11200000;Ново-Переделкино; Скульптора Мухиной;3К1;Новопеределкино;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/315511731/;Москва;sale;flat;10;17;2;51.1;13700000;Москворечье-Сабурово;Кантемировская ;4К1;Москворечье;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/309402128/;Москва;sale;flat;3;12;2;47.6;11300000;Лианозово;Абрамцевская ;3;Алтуфьево;
+Екатерина Плеханова;realtor;https://www.cian.ru/sale/flat/314815389/;Москва;sale;flat;4;14;1;39.0;11350000;Ново-Переделкино;Новопеределкинская ;11;Новопеределкино;
+Жилстройсервис;real_estate_agent;https://www.cian.ru/sale/flat/306690989/;Москва;sale;flat;4;25;1;37.0;12500000;Косино-Ухтомский; Наташи Качуевской;5;Улица Дмитриевского;Дмитриевский
+Монолит Столица;real_estate_agent;https://www.cian.ru/sale/flat/311733772/;Москва;sale;flat;16;25;1;38.2;11300000;Марьино; Перерва;59;Люблино;
+Ирина Крыгина;realtor;https://www.cian.ru/sale/flat/314254792/;Москва;sale;flat;4;9;2;45.1;11500000;Орехово-Борисово Южное;Ясеневая ;41К2;Зябликово;
+Эльвира Мавлютова;realtor;https://www.cian.ru/sale/flat/315055725/;Москва;sale;flat;8;17;1;37.5;11500000;; Бориса Пастернака;19;Рассказовка;Переделкино Ближнее Город-парк
+Геннадий Картавцев;realtor;https://www.cian.ru/sale/flat/315008728/;Москва;sale;flat;13;19;1;37.4;11500000;; Бориса Пастернака;19;Рассказовка;Переделкино Ближнее Город-парк
+Районное Агентство Недвижимости;real_estate_agent;https://www.cian.ru/sale/flat/314887939/;Москва;sale;flat;4;12;2;50.6;12500000;Бирюлево Восточное;Лебедянская ;12К1;Лебедянская;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/311674578/;Москва;sale;flat;7;17;2;54.1;11450000;; 3-я Нововатутинская;13к1;Кедровая;Новые Ватутинки, мкр. Центральный
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/312939267/;Москва;sale;flat;14;17;1;38.5;11500000;Северный;Дмитровское шоссе;165Ек14;Физтех;
+CENTURY 21 Level;real_estate_agent;https://www.cian.ru/sale/flat/315485409/;Москва;sale;flat;4;14;1;47.3;15100000;Солнцево;Боровское шоссе;2Ак3;Говорово;Мещерский лес
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/313593937/;Москва;sale;flat;6;17;2;57.8;11500000;; 2-я Нововатутинская;3;Кедровая;
+Ирина Еремкина;realtor;https://www.cian.ru/sale/flat/310197755/;Москва;sale;flat;15;16;1;36.2;11450000;Лианозово;Череповецкая ;7;Алтуфьево;
+Ольга Сеничкина;realtor;https://www.cian.ru/sale/flat/312831726/;Москва;sale;flat;15;19;1;36.0;12000000;Ховрино;Левобережная ;4к9;Ховрино;
+Галина Федоровна;realtor;https://www.cian.ru/sale/flat/310283729/;Москва;sale;flat;3;19;2;55.1;11500000;Некрасовка;Рождественская ;21к1;Некрасовка;
+Самолет плюс - Москва;real_estate_agent;https://www.cian.ru/sale/flat/314533743/;Москва;sale;flat;6;16;1;35.1;11500000;Восточное Измайлово;Первомайская ;116;Первомайская;
+Анатолий Рачков;realtor;https://www.cian.ru/sale/flat/241016893/;Москва;sale;flat;17;17;2;54.0;12700000;Новокосино;Суздальская ;18К2;Новокосино;
+МИРА;real_estate_agent;https://www.cian.ru/sale/flat/315350578/;Москва;sale;flat;14;19;1;37.9;11600000;Некрасовка; Липчанского;2;Некрасовка;Некрасовка
+ИП Шишкина М. Е.;real_estate_agent;https://www.cian.ru/sale/flat/295036866/;Москва;sale;flat;5;17;1;37.4;11550000;Митино;Пятницкое шоссе;14;Волоколамская;
+Василий Павлов;realtor;https://www.cian.ru/sale/flat/314604647/;Москва;sale;flat;6;17;1;38.0;15000000;Обручевский; Академика Челомея;2;Воронцовская;
+Тамара Певная;realtor;https://www.cian.ru/sale/flat/314306158/;Москва;sale;flat;17;22;1;38.8;11700000;Марьино;Перервинский бульвар;1;Братиславская;
+Александр Лозин;realtor;https://www.cian.ru/sale/flat/312491739/;Москва;sale;flat;5;9;1;38.1;11700000;Орехово-Борисово Южное;Елецкая ;35К2;Зябликово;
+Ahmadulin Estate;real_estate_agent;https://www.cian.ru/sale/flat/315560384/;Москва;sale;flat;13;16;1;37.9;12000000;Марьино;Донецкая ;22;Курьяново;
+ФОРУМ;real_estate_agent;https://www.cian.ru/sale/flat/315112086/;Москва;sale;flat;9;17;1;38.7;11750000;Митино;Пятницкое шоссе;38К1;Пятницкое шоссе;
+Ирина Кутузова;realtor;https://www.cian.ru/sale/flat/315154252/;Москва;sale;flat;2;22;1;40.0;11800000;Солнцево; Богданова;42;Солнцево;
+Юрий Морозов;realtor;https://www.cian.ru/sale/flat/314317314/;Москва;sale;flat;12;14;2;55.3;11800000;; Юбилейная;3;Щербинка;
+Ярослав Широбоков;realtor;https://www.cian.ru/sale/flat/314838746/;Москва;sale;flat;16;17;1;37.8;11800000;Зябликово; Мусы Джалиля;40;Красногвардейская;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/314434052/;Москва;sale;flat;7;17;2;53.7;11900000;Южное Бутово;2-я Мелитопольская ;19;Бутово;
+ТАНДЕМ;real_estate_agent;https://www.cian.ru/sale/flat/310150334/;Москва;sale;flat;14;22;1;38.5;14150000;Хорошево-Мневники;проспект Маршала Жукова;47;Бульвар Генерала Карбышева;
+Алена Пономарева;realtor;https://www.cian.ru/sale/flat/314365817/;Москва;sale;flat;13;17;1;36.7;14500000;Хорошево-Мневники; Маршала Тухачевского;14к1;Народное Ополчение;
+Регина Минеева;realtor;https://www.cian.ru/sale/flat/315283809/;Москва;sale;flat;13;17;1;38.2;12500000;Солнцево; Главмосстроя;5;Говорово;
+CENTURY 21 Milestone;real_estate_agent;https://www.cian.ru/sale/flat/314723449/;Москва;sale;flat;8;22;1;38.8;10950000;Марьино; Верхние Поля;28;Братиславская;
+Дмитрий Мазыкин;realtor;https://www.cian.ru/sale/flat/307493661/;Москва;sale;flat;9;12;3;63.5;13990000;Зябликово;Шипиловская ;64К1;Шипиловская;
+Наталья Евдокимова;realtor;https://www.cian.ru/sale/flat/315392261/;Москва;sale;flat;15;17;2;52.0;13998000;Некрасовка; Сочинская;3к1;Некрасовка;
+ЦЗН ПРОСПЕКТ МИРА;real_estate_agent;https://www.cian.ru/sale/flat/311907631/;Москва;sale;flat;2;12;2;49.1;13000000;Текстильщики; Чистова;6А;Печатники;
+Вячеслав Макеев;realtor;https://www.cian.ru/sale/flat/307969344/;Москва;sale;flat;4;9;2;45.7;11900000;Люблино;Ставропольская ;58К1;Люблино;
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/314557453/;Москва;sale;flat;5;9;4;63.0;15130000;Отрадное;Отрадная ;11;Отрадное;
+Евгений Беляков;realtor;https://www.cian.ru/sale/flat/314778259/;Москва;sale;flat;18;22;1;38.2;15000000;Зюзино;Азовская ;9К2;Нахимовский проспект;
+Свой родной дом;real_estate_agent;https://www.cian.ru/sale/flat/314288828/;Москва;sale;flat;8;14;1;42.1;9500000;; Индустриальная;6;Щербинка;
+Эмилия Шаргородская;realtor;https://www.cian.ru/sale/flat/308103934/;Москва;sale;flat;12;17;2;58.9;14500000;; Авиаконструктора Петлякова;5;Пыхтино;
+Анна Белова;realtor;https://www.cian.ru/sale/flat/314779845/;Москва;sale;flat;12;22;1;38.6;13800000;Москворечье-Сабурово;Пролетарский проспект;3;Кантемировская;
+Агентство на Тульской;real_estate_agent;https://www.cian.ru/sale/flat/311594382/;Москва;sale;flat;4;9;1;34.0;14150000;Даниловский;4-й Рощинский проезд;7/17;Тульская;
+Миэль. Офис на Войковской;real_estate_agent;https://www.cian.ru/sale/flat/310722361/;Москва;sale;flat;6;17;2;50.1;11700000;Солнцево;Родниковая ;4к5;Боровское шоссе;
+Наталия  Новикова;realtor;https://www.cian.ru/sale/flat/312362551/;Москва;sale;flat;5;14;1;47.3;15200000;Солнцево;Боровское шоссе;2Ак4;Говорово;Мещерский лес
+Квартал Риэлти;real_estate_agent;https://www.cian.ru/sale/flat/298612761/;Москва;sale;flat;2;17;2;54.2;13700000;Зябликово;Кустанайская ;6К2;Шипиловская;
+Елена Ра;realtor;https://www.cian.ru/sale/flat/311503601/;Москва;sale;flat;16;17;1;35.7;9650000;Перово; Плеханова;29К1;Перово;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/314505505/;Москва;sale;flat;4;9;2;44.5;13750000;Бабушкинский;Верхоянская ;6К1;Свиблово;
+ПРЕСТИЖ;real_estate_agent;https://www.cian.ru/sale/flat/315299114/;Москва;sale;flat;15;16;2;50.2;13150000;Западное Дегунино; Маршала Федоренко;10к2;Ховрино;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/315349986/;Москва;sale;flat;16;17;2;53.0;13000000;Братеево;Братеевская ;10К1;Алма-Атинская;
+Небоскреб;real_estate_agent;https://www.cian.ru/sale/flat/310193086/;Москва;sale;flat;9;9;2;45.3;11900000;Гольяново;Уссурийская ;14;Гольяново;
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/312673894/;Москва;sale;flat;3;16;1;36.4;12500000;Нагатинский затон;Коломенская набережная;6К1;Нагатинский Затон;
+Прайм Самолет Плюс;real_estate_agent;https://www.cian.ru/sale/flat/314595319/;Москва;sale;flat;12;17;1;38.0;9500000;Бирюлево Восточное;Липецкая ;46к1;Лебедянская;
+ОГРК;real_estate_agent;https://www.cian.ru/sale/flat/314870691/;Москва;sale;flat;17;17;2;63.9;12000000;Некрасовка;Рождественская ;19к2;Некрасовка;
+Олеся Гамова;realtor;https://www.cian.ru/sale/flat/311425001/;Москва;sale;flat;8;17;1;38.2;14000000;Преображенское;переулок Зельев;3;Преображенская площадь;
+Вита Мелконян;realtor;https://www.cian.ru/sale/flat/315241786/;Москва;sale;flat;10;17;1;38.3;12890000;Митино;переулок Ангелов;7К1;Пятницкое шоссе;
+Самолет плюс - Москва;real_estate_agent;https://www.cian.ru/sale/flat/315461099/;Москва;sale;flat;3;9;2;44.7;11300000;Орехово-Борисово Южное;Ясеневая ;19К2;Домодедовская;
+Руслан Каракеян;realtor;https://www.cian.ru/sale/flat/310768269/;Москва;sale;flat;7;16;2;51.5;15500000;Бутырский; Яблочкова;29Б;Тимирязевская;
+МИЭЛЬ;real_estate_agent;https://www.cian.ru/sale/flat/315546712/;Москва;sale;flat;3;16;1;36.0;10850000;Чертаново Южное;Кировоградская ;44АК2;Улица Академика Янгеля;
+Ксения Бритова;realtor;https://www.cian.ru/sale/flat/310962822/;Москва;sale;flat;3;16;2;53.5;13290000;Ново-Переделкино;Боровское шоссе;19;Боровское шоссе;
+Андрей Руднев;realtor;https://www.cian.ru/sale/flat/315269410/;Москва;sale;flat;15;17;1;38.0;13900000;Хорошево-Мневники; Маршала Тухачевского;17К1;Народное Ополчение;
+ГОРОБМЕН;real_estate_agent;https://www.cian.ru/sale/flat/315138239/;Москва;sale;flat;14;14;2;56.1;12450000;Южное Бутово; Горчакова;1К3;Улица Горчакова;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/313194068/;Москва;sale;flat;9;17;1;35.6;12700000;Марфино;Большая Марфинская ;1к3;Улица Милашенкова;
+CENTURY 21 Перспектива;real_estate_agent;https://www.cian.ru/sale/flat/314780058/;Москва;sale;flat;2;9;3;49.4;13350000;Отрадное; Пестеля;8Б;Отрадное;
+Самолет Плюс Москва ЦАО;real_estate_agent;https://www.cian.ru/sale/flat/315452256/;Москва;sale;flat;9;9;3;51.4;13200000;Восточное Дегунино;Дубнинская ;24К3;Дегунино;
+Игорь Стешаков;realtor;https://www.cian.ru/sale/flat/311281102/;Москва;sale;flat;9;10;2;53.2;13200000;Южное Бутово;Южнобутовская ;133;Бунинская аллея;
+НДВ;real_estate_agent;https://www.cian.ru/sale/flat/312682377/;Москва;sale;flat;13;17;1;37.8;14350000;Крылатское;Осенний бульвар;10К1;Крылатское;
+Гранд недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/315400533/;Москва;sale;flat;4;22;1;38.3;12300000;Текстильщики; Малышева;13К3;Волжская;
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/308076430/;Москва;sale;flat;2;9;3;49.7;15100000;Войковский; Зои и Александра Космодемьянских;11;Войковская;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/314757343/;Москва;sale;flat;8;12;2;52.6;13200000;Восточное Дегунино;Дубнинская ;22К3;Дегунино;
+Надежда Никитина;realtor;https://www.cian.ru/sale/flat/313873760/;Москва;sale;flat;8;16;2;53.5;14700000;Новогиреево;Перовская ;73/43;Новогиреево;
+Самолет Плюс Подмосковье;real_estate_agent;https://www.cian.ru/sale/flat/298560344/;Москва;sale;flat;9;9;3;58.9;13250000;Рязанский;Зарайская ;56;Плющево;
+Адалят Алиев;realtor;https://www.cian.ru/sale/flat/314396722/;Москва;sale;flat;5;17;1;39.0;14800000;Северное Медведково; Грекова;7;Медведково;
+Галина Сапронова;realtor;https://www.cian.ru/sale/flat/314906490/;Москва;sale;flat;7;17;1;38.7;13200000;Солнцево;Солнцевский проспект;10;Солнцево;
+Любовь Мурашкина;realtor;https://www.cian.ru/sale/flat/314509783/;Москва;sale;flat;14;14;1;38.9;11300000;Братеево;Ключевая ;4К1;Алма-Атинская;
+Ольга Глотова;realtor;https://www.cian.ru/sale/flat/306388688/;Москва;sale;flat;8;14;2;56.2;14800000;Митино; Барышиха;38;Пятницкое шоссе;
+Простор-недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/313168066/;Москва;sale;flat;3;9;3;49.8;13500000;Теплый Стан; Теплый Стан;12К4;Генерала Тюленева;
+Самолет Плюс;real_estate_agent;https://www.cian.ru/sale/flat/315299982/;Москва;sale;flat;3;16;1;34.4;11300000;Перово;Мартеновская ;15;Новогиреево;
+Елизавета Кондрашова;realtor;https://www.cian.ru/sale/flat/304652306/;Москва;sale;flat;17;17;2;52.0;13000000;; Самуила Маршака;1;Мичуринец;Переделкино Ближнее Город-парк
+Людмила Бондаренко;realtor;https://www.cian.ru/sale/flat/309376834/;Москва;sale;flat;10;17;2;53.6;12700000;Бирюлево Восточное;Липецкая ;17К1;Лебедянская;
+WHITE BROKER;real_estate_agent;https://www.cian.ru/sale/flat/315381779/;Москва;sale;flat;11;17;1;39.0;13100000;Ховрино;Зеленоградская ;17К5;Грачёвская;
+VIСTORIA CAPITAL GROUP;real_estate_agent;https://www.cian.ru/sale/flat/314698308/;Москва;sale;flat;3;9;3;60.9;14400000;Орехово-Борисово Южное;Ясеневая ;31К2;Зябликово;
+Денис Мазитов;realtor;https://www.cian.ru/sale/flat/315000957/;Москва;sale;flat;11;17;1;38.2;14200000;Чертаново Северное;Балаклавский проспект;3;Чертановская;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/309100647/;Москва;sale;flat;9;17;2;53.5;13300000;Солнцево; Авиаторов;20;Солнцево;
+Виталий Чернышев;realtor;https://www.cian.ru/sale/flat/306754325/;Москва;sale;flat;5;9;2;43.7;12000000;Солнцево;Солнцевский проспект;9К1;Солнцево;
+Евгений Хохлов;realtor;https://www.cian.ru/sale/flat/309383877/;Москва;sale;flat;8;14;2;45.6;12990000;Северное Медведково;Студеный проезд;13;Медведково;
+Андрей Чеботарев;realtor;https://www.cian.ru/sale/flat/312672295/;Москва;sale;flat;4;17;2;51.0;14900000;Косино-Ухтомский; Дмитриевского;7;Улица Дмитриевского;
+ИНФИНИТИ;real_estate_agent;https://www.cian.ru/sale/flat/315091861/;Москва;sale;flat;15;17;2;60.4;12700000;Некрасовка; Липчанского;5к1;Некрасовка;
+Монолит Столица;real_estate_agent;https://www.cian.ru/sale/flat/315095547/;Москва;sale;flat;6;14;1;38.1;11500000;Митино; Барышиха;34;Пятницкое шоссе;
+Елена Везучая;realtor;https://www.cian.ru/sale/flat/315222555/;Москва;sale;flat;5;14;1;39.0;12900000;Крюково;Зеленоград;к1818;Зеленоград — Крюково;
+ТСН Владис;real_estate_agent;https://www.cian.ru/sale/flat/314947022/;Москва;sale;flat;18;25;1;37.2;11500000;Марьино; Перерва;55;Братиславская;
+Александр Гуров;realtor;https://www.cian.ru/sale/flat/313356551/;Москва;sale;flat;9;22;2;59.0;11900000;Некрасовка;Покровская ;41;Некрасовка;
+Александр Мазур;realtor;https://www.cian.ru/sale/flat/315008116/;Москва;sale;flat;13;14;1;38.0;14500000;Нагорный;Ялтинская ;6;Варшавская;
+Наталия Киселёва;realtor;https://www.cian.ru/sale/flat/313348620/;Москва;sale;flat;8;17;2;50.7;13200000;Южное Бутово;бульвар Адмирала Ушакова;18;Улица Скобелевская;
+Екатерина Демидова;realtor;https://www.cian.ru/sale/flat/312801454/;Москва;sale;flat;12;12;2;46.0;14000000;Южное Тушино; Свободы;51К1;Сходненская;
+Простор-недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/315041804/;Москва;sale;flat;2;12;2;47.0;12300000;Кузьминки; Юных Ленинцев;43/33;Кузьминки;
+На Петровке;real_estate_agent;https://www.cian.ru/sale/flat/311075974/;Москва;sale;flat;3;12;3;61.2;15000000;Бибирево;Мурановская ;12;Алтуфьево;
+Валентина Лысова;realtor;https://www.cian.ru/sale/flat/314879183/;Москва;sale;flat;13;17;1;38.2;15200000;Хорошевский;Хорошевское шоссе;11;Беговая;
+Александра Ивашкевич;realtor;https://www.cian.ru/sale/flat/310939009/;Москва;sale;flat;7;12;2;63.0;15000000;Южное Бутово; Академика Понтрягина;17;Бунинская аллея;
+МИЭЛЬ;real_estate_agent;https://www.cian.ru/sale/flat/315348815/;Москва;sale;flat;24;25;1;47.0;15500000;Ново-Переделкино;Лукинская ;10;Переделкино;
+ДСК;real_estate_agent;https://www.cian.ru/sale/flat/314824782/;Москва;sale;flat;8;17;1;36.7;13000000;Чертаново Южное;Россошанская ;4к4;Красный Строитель;
+УСПЕХ;real_estate_agent;https://www.cian.ru/sale/flat/313593093/;Москва;sale;flat;5;12;1;38.6;9400000;Старое Крюково;Зеленоград;к923;Зеленоград — Крюково;
+ЕГСН Продажа;real_estate_agent;https://www.cian.ru/sale/flat/305287465/;Москва;sale;flat;5;14;2;53.5;13400000;Зябликово;Ореховый бульвар;71;Красногвардейская;
+Сергей Жаров;realtor;https://www.cian.ru/sale/flat/313492479/;Москва;sale;flat;5;24;1;36.5;12900000;Западное Дегунино;Базовская ;15к15;Грачёвская;
+ГОРОБМЕН;real_estate_agent;https://www.cian.ru/sale/flat/313544339/;Москва;sale;flat;10;22;1;39.0;13100000;Строгино;Таллинская ;26;Строгино;
+Альянс-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/313446823/;Москва;sale;flat;12;17;1;38.0;14200000;Отрадное; Декабристов;4К3;Отрадное;
+Кредит-Центр Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/307534593/;Москва;sale;flat;3;9;1;37.5;14700000;Раменки; Довженко;6;Минская;
+DREAM HOUSE;real_estate_agent;https://www.cian.ru/sale/flat/314366230/;Москва;sale;flat;17;19;1;39.6;13800000;Косино-Ухтомский; Наташи Качуевской;5;Улица Дмитриевского;Дмитриевский
+PRO.КOMPLEX;real_estate_agent;https://www.cian.ru/sale/flat/309432599/;Москва;sale;flat;14;14;2;51.9;13890000;Восточное Дегунино;Керамический проезд;45К1;Дегунино;
+Ключъ;real_estate_agent;https://www.cian.ru/sale/flat/303833969/;Москва;sale;flat;14;17;2;50.7;13800000;Северное Бутово;Коктебельская ;4К4;Бульвар Дмитрия Донского;
+Надежда Никитина;realtor;https://www.cian.ru/sale/flat/312459165/;Москва;sale;flat;14;17;1;41.2;13850000;Северный;Дмитровское шоссе;169К7;Физтех;На Дмитровском 169
+Екатерина Медведева;realtor;https://www.cian.ru/sale/flat/315023783/;Москва;sale;flat;9;17;2;49.8;13990000;; Ясная;1;Коммунарка;
+Светлана Хрусталёва;realtor;https://www.cian.ru/sale/flat/314738433/;Москва;sale;flat;3;9;3;60.0;14000000;Марьино;Подольская ;7;Перерва;
+Людмила  Фирсанова;realtor;https://www.cian.ru/sale/flat/313026631/;Москва;sale;flat;7;17;1;38.0;14000000;Преображенское;Халтуринская ;20;Бульвар Рокоссовского;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/315540049/;Москва;sale;flat;9;12;1;46.5;14000000;; Сосенский Стан;5;Коммунарка;Коммунарка
+Елена Надейкина;realtor;https://www.cian.ru/sale/flat/314090610/;Москва;sale;flat;11;14;2;53.4;13990000;Восточное Дегунино;Керамический проезд;47К1;Дегунино;
+ИНФИНИТИ;real_estate_agent;https://www.cian.ru/sale/flat/314407366/;Москва;sale;flat;14;14;2;51.5;14000000;Западное Дегунино;Ангарская ;8;Грачёвская;
+Галина Яковлева;realtor;https://www.cian.ru/sale/flat/314775845/;Москва;sale;flat;11;17;2;51.5;14000000;Южное Бутово;Скобелевская ;20;Улица Скобелевская;
+СмениКварти.Ру;real_estate_agent;https://www.cian.ru/sale/flat/310844701/;Москва;sale;flat;2;19;2;56.5;14650000;Западное Дегунино;Базовская ;15к8;Грачёвская;На Базовской
+Московский Риэлторский Центр;real_estate_agent;https://www.cian.ru/sale/flat/314484503/;Москва;sale;flat;22;24;1;38.0;14000000;Выхино-Жулебино;Привольная ;56;Жулебино;Приволье
+ЮФ Скородумов;real_estate_agent;https://www.cian.ru/sale/flat/308902179/;Москва;sale;flat;4;17;2;53.7;14000000;Митино;Пятницкое шоссе;47;Пятницкое шоссе;
+ГОРОБМЕН;real_estate_agent;https://www.cian.ru/sale/flat/312985811/;Москва;sale;flat;2;17;2;54.0;14000000;Чертаново Южное;Варшавское шоссе;152К7;Улица Академика Янгеля;
+WES ESTATE;real_estate_agent;https://www.cian.ru/sale/flat/315035976/;Москва;sale;flat;13;14;2;43.7;14150000;Очаково-Матвеевское;Очаковское шоссе;21К2;Очаково;
+Андрей  Бахтин;realtor;https://www.cian.ru/sale/flat/311207789/;Москва;sale;flat;5;14;2;53.6;13700000;Южное Бутово; Адмирала Лазарева;22;Бульвар Адмирала Ушакова;
+Владимир Натаров;realtor;https://www.cian.ru/sale/flat/313663618/;Москва;sale;flat;6;12;1;36.3;15500000;Таганский;Новорогожская ;14К1;Москва-Товарная;
+Прайм Самолет Плюс;real_estate_agent;https://www.cian.ru/sale/flat/314501091/;Москва;sale;flat;2;17;2;50.2;13900000;Братеево;Братеевская ;21К1;Борисово;
+МИРА;real_estate_agent;https://www.cian.ru/sale/flat/303876890/;Москва;sale;flat;15;16;2;53.0;13499999;Чертаново Южное;Варшавское шоссе;149к1;Аннино;
+ВИТА;real_estate_agent;https://www.cian.ru/sale/flat/313626831/;Москва;sale;flat;17;17;2;57.4;15000000;Митино;переулок Ангелов;8;Пятницкое шоссе;
+Домовой - Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/315456422/;Москва;sale;flat;11;17;2;58.3;15500000;; Летчика Грицевца;4;Пыхтино;Солнцево парк
+Елена  Воробьева;realtor;https://www.cian.ru/sale/flat/315231720/;Москва;sale;flat;16;17;1;38.1;14300000;Орехово-Борисово Северное;Домодедовская ;20К1;Орехово;
+Ключи;real_estate_agent;https://www.cian.ru/sale/flat/313189279/;Москва;sale;flat;11;16;1;38.5;15500000;Хорошевский;Хорошевское шоссе;24;Беговая;
+CENTURY 21 Столичная недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/315031227/;Москва;sale;flat;9;9;3;58.9;14400000;Теплый Стан; Академика Виноградова;6;Генерала Тюленева;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/313655194/;Москва;sale;flat;11;17;1;38.0;10200000;Люблино;Цимлянская ;24;Люблино;
+ИНФИНИТИ;real_estate_agent;https://www.cian.ru/sale/flat/313949736/;Москва;sale;flat;7;17;3;74.8;14999000;Некрасовка; Липчанского;9;Некрасовка;
+SRG;real_estate_agent;https://www.cian.ru/sale/flat/315248739/;Москва;sale;flat;8;16;2;56.3;14700000;Выхино-Жулебино;Сормовская ;3К3;Юго-Восточная;
+ВОСТОК-РИЭЛТИ;real_estate_agent;https://www.cian.ru/sale/flat/304420737/;Москва;sale;flat;7;17;2;55.3;13000000;; Авиаконструктора Петлякова;13;Пыхтино;Солнцево парк
+Isaev Estate;real_estate_agent;https://www.cian.ru/sale/flat/314142017/;Москва;sale;flat;11;16;1;36.5;11000000;Северный;Дмитровское шоссе;165Ек5;Физтех;
+Максут Билялов;realtor;https://www.cian.ru/sale/flat/313774564/;Москва;sale;flat;12;22;-1;102.1;10000000;Солнцево;Производственная ;4;Солнцево;
+Прайм Самолет Плюс;real_estate_agent;https://www.cian.ru/sale/flat/314299639/;Москва;sale;flat;10;23;1;37.2;14000000;Крылатское;Рублевское шоссе;44К1;Крылатское;
+Андрей Прусаков;realtor;https://www.cian.ru/sale/flat/310377161/;Москва;sale;flat;4;22;2;57.7;14999999;Марьино; Верхние Поля;28;Братиславская;
+Простор-недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/315436723/;Москва;sale;flat;8;17;2;53.3;14700000;Митино;Пятницкое шоссе;31;Митино;
+Ирина Даньшина;realtor;https://www.cian.ru/sale/flat/313749539/;Москва;sale;flat;12;12;2;50.2;14572000;Перово; Плющева;17К2;Перово;
+Мария Гуща;realtor;https://www.cian.ru/sale/flat/314779000/;Москва;sale;flat;6;17;2;50.8;14250000;Северный;Челобитьевское шоссе;12к3;Физтех;
+МИЭЛЬ;real_estate_agent;https://www.cian.ru/sale/flat/312726729/;Москва;sale;flat;9;9;2;43.5;12000000;Южное Тушино;Аэродромная ;4С1;Сходненская;
+Лидия Скороходова;realtor;https://www.cian.ru/sale/flat/314446890/;Москва;sale;flat;4;10;1;37.6;10000000;Южное Бутово;Южнобутовская ;23;Улица Горчакова;
+Твой дом МСК;real_estate_agent;https://www.cian.ru/sale/flat/312634613/;Москва;sale;flat;5;16;2;51.0;13000000;Западное Дегунино;Краснополянская ;6К2;Ховрино;
+МИЭЛЬ;real_estate_agent;https://www.cian.ru/sale/flat/314260037/;Москва;sale;flat;8;17;2;53.8;13750000;Новокосино;Салтыковская ;15К1;Новокосино;
+Елена Александровна Силантьева;realtor;https://www.cian.ru/sale/flat/315138975/;Москва;sale;flat;8;16;2;50.8;14900000;Северный;Долгопрудная аллея;15к4;Долгопрудная;Мой адрес в Северном
+CENTURY 21 Milestone;real_estate_agent;https://www.cian.ru/sale/flat/315286319/;Москва;sale;flat;15;17;2;53.6;14700000;Чертаново Южное;Варшавское шоссе;152К8;Улица Академика Янгеля;
+ID 79835373;unknown;https://www.cian.ru/sale/flat/307110301/;Москва;sale;flat;15;17;2;54.2;14700000;Северное Бутово; Знаменские Садки;1К2;Бульвар Дмитрия Донского;
+Moscow Estate;real_estate_agent;https://www.cian.ru/sale/flat/311347551/;Москва;sale;flat;12;12;2;51.4;14800000;Орехово-Борисово Южное;Елецкая ;8К2;Домодедовская;
+Ирина Котурга;realtor;https://www.cian.ru/sale/flat/300345391/;Москва;sale;flat;4;16;2;53.7;15300000;Марьино;Братиславская ;27К3;Братиславская;
+Ирина Яхира;realtor;https://www.cian.ru/sale/flat/312056211/;Москва;sale;flat;14;14;2;40.0;13200000;Войковский; Зои и Александра Космодемьянских;16К2;Войковская;
+Людмила Сакара;realtor;https://www.cian.ru/sale/flat/314754769/;Москва;sale;flat;14;17;2;60.0;14700000;Некрасовка; Ухтомского Ополчения;3;Некрасовка;Некрасовка-Парк
+Наталья Таранцова;realtor;https://www.cian.ru/sale/flat/312369455/;Москва;sale;flat;11;12;2;52.3;15500000;Северное Медведково;Осташковская ;26;Медведково;
+Деловой Союз;real_estate_agent;https://www.cian.ru/sale/flat/313801328/;Москва;sale;flat;10;14;3;60.0;13500000;Солнцево;Попутная ;1К3;Солнечная;
+Наталия Киселёва;realtor;https://www.cian.ru/sale/flat/305842122/;Москва;sale;flat;8;14;2;51.9;13600000;Братеево;Алма-Атинская ;5;Алма-Атинская;
+People Moscow;real_estate_agent;https://www.cian.ru/sale/flat/313444233/;Москва;sale;flat;5;16;1;35.0;14900000;Даниловский;Духовской переулок;12А;Тульская;
+БЕСТ-Недвижимость на Баррикадной;real_estate_agent;https://www.cian.ru/sale/flat/313802277/;Москва;sale;flat;3;17;1;38.6;13800000;Чертаново Южное;Варшавское шоссе;152К2;Улица Академика Янгеля;
+Квартирный вопрос;real_estate_agent;https://www.cian.ru/sale/flat/313528207/;Москва;sale;flat;12;14;3;62.2;15000000;Ново-Переделкино; Скульптора Мухиной;7К2;Новопеределкино;
+Дeльта;real_estate_agent;https://www.cian.ru/sale/flat/311608118/;Москва;sale;flat;8;12;2;52.3;14000000;Зябликово; Мусы Джалиля;14К1;Шипиловская;
+ОГРК;real_estate_agent;https://www.cian.ru/sale/flat/314480076/;Москва;sale;flat;10;19;1;37.8;10345000;Некрасовка;Рождественская ;6;Некрасовка;
+Прайм Самолет Плюс;real_estate_agent;https://www.cian.ru/sale/flat/314827039/;Москва;sale;flat;15;17;1;38.2;14599000;Митино;переулок Ангелов;7К1;Пятницкое шоссе;
+Мост;real_estate_agent;https://www.cian.ru/sale/flat/305739954/;Москва;sale;flat;9;17;1;39.0;12600000;Выхино-Жулебино;Саранская ;7;Жулебино;
+ИНФИНИТИ;real_estate_agent;https://www.cian.ru/sale/flat/315194810/;Москва;sale;flat;8;17;2;53.8;13720000;Новокосино;Салтыковская ;15К1;Новокосино;
+Андрей Бережняк;realtor;https://www.cian.ru/sale/flat/315365451/;Москва;sale;flat;3;9;2;53.3;15000000;Южное Бутово;Бартеневская ;57К1;Бунинская аллея;
+МИЭЛЬ;real_estate_agent;https://www.cian.ru/sale/flat/314999631/;Москва;sale;flat;2;14;1;37.7;13500000;Северное Медведково;проезд Шокальского;49К1;Медведково;
+А.С.К. НЕДВИЖИМОСТЬ;real_estate_agent;https://www.cian.ru/sale/flat/315282444/;Москва;sale;flat;11;14;2;50.1;12990000;Крюково;Зеленоград;к1539;Зеленоград — Крюково;
+CENTURY 21 Перспектива;real_estate_agent;https://www.cian.ru/sale/flat/315283643/;Москва;sale;flat;9;17;2;54.4;11550000;Некрасовка;Рождественская ;21к6;Некрасовка;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/305491783/;Москва;sale;flat;22;25;1;38.5;14300000;Марфино; Академика Королева;32;Улица Милашенкова;
+Самолет плюс Москва Шаболовская;real_estate_agent;https://www.cian.ru/sale/flat/306452278/;Москва;sale;flat;16;16;1;37.8;10500000;Марьино;Новочеркасский бульвар;30;Марьино;
+Татьяна Карелова;realtor;https://www.cian.ru/sale/flat/300517327/;Москва;sale;flat;17;17;2;51.2;14700000;; Бориса Пастернака;15;Рассказовка;Переделкино Ближнее Город-парк
+ОГРК;real_estate_agent;https://www.cian.ru/sale/flat/314530797/;Москва;sale;flat;2;17;3;74.0;14800000;Крюково;Зеленоград;к1454;Зеленоград — Крюково;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/312998412/;Москва;sale;flat;14;17;1;37.6;12700000;; Бориса Пастернака;13;Рассказовка;Переделкино Ближнее Город-парк
+Isaev Estate;real_estate_agent;https://www.cian.ru/sale/flat/315248921/;Москва;sale;flat;11;12;2;52.3;13700000;Лианозово;Новгородская ;34;Алтуфьево;
+Самолет Плюс Москва ЮГ;real_estate_agent;https://www.cian.ru/sale/flat/313491017/;Москва;sale;flat;9;12;2;51.6;12950000;Косино-Ухтомский;Большая Косинская ;16К2;Косино;
+Монолит Столица;real_estate_agent;https://www.cian.ru/sale/flat/313185480/;Москва;sale;flat;8;16;2;58.2;14500000;Выхино-Жулебино;Рязанский проспект;74;Юго-Восточная;
+МОЯ СТОЛИЦА;real_estate_agent;https://www.cian.ru/sale/flat/314746515/;Москва;sale;flat;6;9;3;62.0;14500000;Люблино;Краснодарская ;13;Депо;
+Гранд Сити;real_estate_agent;https://www.cian.ru/sale/flat/313681032/;Москва;sale;flat;11;17;2;59.2;12990000;Некрасовка; Недорубова;27;Некрасовка;
+Ольга Федякова;realtor;https://www.cian.ru/sale/flat/314177640/;Москва;sale;flat;16;17;2;60.5;14490000;Некрасовка;проспект Защитников Москвы;5;Некрасовка;
+Геометрия;real_estate_agent;https://www.cian.ru/sale/flat/315112472/;Москва;sale;flat;13;17;1;38.0;11500000;Зябликово; Мусы Джалиля;7К4;Борисово;
+Игорь Омельченко;realtor;https://www.cian.ru/sale/flat/291453412/;Москва;sale;flat;8;14;2;53.2;13500000;Южное Бутово;Бартеневская ;23К2;Бульвар Адмирала Ушакова;
+Наталья Дубкова;realtor;https://www.cian.ru/sale/flat/313870845/;Москва;sale;flat;9;17;1;36.6;10200000;; Летчика Грицевца;11;Пыхтино;Солнцево парк
+CENTURY 21 Столичная недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/313343020/;Москва;sale;flat;3;17;2;55.2;14400000;; Летчика Грицевца;8;Пыхтино;Солнцево парк
+Позитив ВТ;real_estate_agent;https://www.cian.ru/sale/flat/315195535/;Москва;sale;flat;15;16;1;36.6;12000000;Можайский;Рябиновая ;6;Рабочий посёлок;
+Александра Мацюк;realtor;https://www.cian.ru/sale/flat/314897207/;Москва;sale;flat;8;16;1;38.0;12990000;; Самуила Маршака;16;Рассказовка;Переделкино Ближнее Город-парк
+Самолет Плюс Москва ЦАО;real_estate_agent;https://www.cian.ru/sale/flat/315135071/;Москва;sale;flat;3;17;1;36.6;14800000;Крылатское;Рублевское шоссе;52;Крылатское;
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/314327623/;Москва;sale;flat;9;19;1;39.4;15500000;Рязанский; Михайлова;31А;Плющево;Михайлова, 31
+Dream Realty;real_estate_agent;https://www.cian.ru/sale/flat/312934886/;Москва;sale;flat;10;14;2;83.4;15200000;;;8;Силикатная;
+Василий Прохорченко;realtor;https://www.cian.ru/sale/flat/300005838/;Москва;sale;flat;9;14;3;73.2;15000000;Крюково;Зеленоград;к1462;Зеленоград — Крюково;
+ИНФИНИТИ;real_estate_agent;https://www.cian.ru/sale/flat/315206883/;Москва;sale;flat;10;16;3;64.8;14500000;Бирюлево Восточное;Липецкая ;22К2;Липецкая;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/314391594/;Москва;sale;flat;3;12;1;40.0;13500000;Бибирево; Плещеева;18;Бибирево;
+Светлана Сорокина;realtor;https://www.cian.ru/sale/flat/312716689/;Москва;sale;flat;3;12;2;52.4;14500000;Орехово-Борисово Южное;Воронежская ;38/43;Зябликово;
+Наталья Измайлова;realtor;https://www.cian.ru/sale/flat/313300810/;Москва;sale;flat;9;17;2;51.0;13200000;Некрасовка;проспект Защитников Москвы;8;Некрасовка;Некрасовка-Парк
+Наталья Николаева;realtor;https://www.cian.ru/sale/flat/313792516/;Москва;sale;flat;16;17;2;53.7;14150000;Ново-Переделкино;Боровское шоссе;39;Новопеределкино;
+Алексей Фризяк;realtor;https://www.cian.ru/sale/flat/315212638/;Москва;sale;flat;9;9;3;57.1;12000000;Южное Бутово;1-я Мелитопольская ;8;Бутово;
+Светлана Пашатская;realtor;https://www.cian.ru/sale/flat/314500044/;Москва;sale;flat;2;12;3;63.1;15000000;Люблино;Белореченская ;31;Люблино;
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/313865644/;Москва;sale;flat;11;17;3;69.0;13500000;; Текстильщиков;4;Троицк;
+ЭТАЖИ Подольск;real_estate_agent;https://www.cian.ru/sale/flat/314322457/;Москва;sale;flat;9;9;3;60.0;12500000;Орехово-Борисово Южное; Генерала Белова;49К3;Домодедовская;
+Ольга Пилипенко;realtor;https://www.cian.ru/sale/flat/312922112/;Москва;sale;flat;2;5;1;34.7;9800000;Печатники;Батюнинская ;1;Перерва;
+ID 12238634;homeowner;https://www.cian.ru/sale/flat/304109556/;Москва;sale;flat;9;17;1;37.9;12600000;Выхино-Жулебино;Саранская ;7;Жулебино;
+Крестина Поздникина;realtor;https://www.cian.ru/sale/flat/305361759/;Москва;sale;flat;7;14;2;84.3;14800000;;;2;Силикатная;
+Eлена Терехова;realtor;https://www.cian.ru/sale/flat/313910662/;Москва;sale;flat;9;25;2;59.0;15350000;Некрасовка; Недорубова;7;Некрасовка;Некрасовка-Парк
+Александр Анипченко;realtor;https://www.cian.ru/sale/flat/314896581/;Москва;sale;flat;16;17;2;63.4;14500000;Некрасовка;Покровская ;16;Некрасовка;Некрасовка
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/312893873/;Москва;sale;flat;22;25;-1;53.7;9500000;Тимирязевский;Дмитровский проезд;20К1;Гражданская;
+МИЭЛЬ;real_estate_agent;https://www.cian.ru/sale/flat/314591029/;Москва;sale;flat;12;17;2;54.1;13000000;Некрасовка;проспект Защитников Москвы;7к2;Некрасовка;
+ЭТАЖИ Подольск;real_estate_agent;https://www.cian.ru/sale/flat/314322440/;Москва;sale;flat;14;17;2;64.1;14300000;Некрасовка;Рождественская ;39;Некрасовка;Некрасовка-Парк
+ОГРК;real_estate_agent;https://www.cian.ru/sale/flat/310479958/;Москва;sale;flat;10;12;2;52.1;14798889;Бибирево; Коненкова;15;Бибирево;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/300571697/;Москва;sale;flat;11;17;2;53.5;13690000;Некрасовка; Липчанского;7к1;Некрасовка;
+Твоя квартира;real_estate_agent;https://www.cian.ru/sale/flat/313470739/;Москва;sale;flat;5;14;1;37.5;12300000;Выхино-Жулебино;Ферганская ;9К5;Юго-Восточная;
+Бест на Речном;real_estate_agent;https://www.cian.ru/sale/flat/307228977/;Москва;sale;flat;15;19;2;56.6;14800000;Северный;Дмитровское шоссе;169К4;Физтех;
+Галина Козлова;realtor;https://www.cian.ru/sale/flat/297867331/;Москва;sale;flat;23;23;1;36.1;12500000;Можайский;Барвихинская ;4К2;Сетунь;
+Самолет плюс;real_estate_agent;https://www.cian.ru/sale/flat/300548428/;Москва;sale;flat;4;17;2;52.0;14600000;Некрасовка;Покровская ;17к3;Некрасовка;Некрасовка
+CRISTAL ESTATE;real_estate_agent;https://www.cian.ru/sale/flat/305638178/;Москва;sale;flat;2;10;3;63.6;12500000;; Текстильщиков;6;Троицк;
+Мария Мику;realtor;https://www.cian.ru/sale/flat/314587932/;Москва;sale;flat;12;14;3;70.6;14990000;Южное Бутово;2-я Мелитопольская ;21К2;Бутово;
+Дарья Базылева;realtor;https://www.cian.ru/sale/flat/314332409/;Москва;sale;flat;7;17;2;53.8;15500000;Ново-Переделкино; Шолохова;10;Новопеределкино;
+Михаил Зайцев;realtor;https://www.cian.ru/sale/flat/312276631/;Москва;sale;flat;2;17;2;53.5;13100000;Ново-Переделкино; Шолохова;10;Новопеределкино;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/313794546/;Москва;sale;flat;21;25;2;58.0;13500000;Некрасовка;Покровская ;12;Некрасовка;Некрасовка
+WHITE BROKER;real_estate_agent;https://www.cian.ru/sale/flat/314213248/;Москва;sale;flat;2;17;1;38.1;12500000;Нагатино-Садовники;Варшавское шоссе;53К4;Нагатинская;
+Прайм Самолет Плюс;real_estate_agent;https://www.cian.ru/sale/flat/310474134/;Москва;sale;flat;8;12;2;52.0;14900000;Выхино-Жулебино; Генерала Кузнецова;11К2;Жулебино;
+Татьяна Серебрякова;realtor;https://www.cian.ru/sale/flat/314282638/;Москва;sale;flat;13;17;1;40.0;12500000;Марьино;Новомарьинская ;16К1;Братиславская;
+АРТ;real_estate_agent;https://www.cian.ru/sale/flat/313857788/;Москва;sale;flat;11;17;1;39.0;13100000;Ховрино;Зеленоградская ;17К5;Грачёвская;
+МОЯ СТОЛИЦА;real_estate_agent;https://www.cian.ru/sale/flat/308201357/;Москва;sale;flat;10;16;2;54.0;13500000;Бирюлево Восточное;Липецкая ;54/21;Лебедянская;
+Самолет Плюс Москва;real_estate_agent;https://www.cian.ru/sale/flat/315196310/;Москва;sale;flat;17;19;1;36.0;12350000;Ховрино;Левобережная ;4к9;Беломорская;
+ГОРОБМЕН;real_estate_agent;https://www.cian.ru/sale/flat/315237897/;Москва;sale;flat;6;17;2;50.5;14200000;Братеево;Ключевая ;16/29;Алма-Атинская;
+На Петровке;real_estate_agent;https://www.cian.ru/sale/flat/313295262/;Москва;sale;flat;14;17;1;36.8;12000000;Москворечье-Сабурово;Кантемировская ;20К4;Кантемировская;
+SRG;real_estate_agent;https://www.cian.ru/sale/flat/303902876/;Москва;sale;flat;14;17;1;35.7;11500000;Северное Бутово; Грина;1К5;Бульвар Дмитрия Донского;
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/314434410/;Москва;sale;flat;9;17;1;36.1;12000000;; Бориса Пастернака;5;Мичуринец;Переделкино Ближнее Город-парк
+Бест офис на Таганской;real_estate_agent;https://www.cian.ru/sale/flat/315194472/;Москва;sale;flat;2;9;3;49.4;13500000;Ясенево; Рокотова;8К5;Ясенево;
+ВСЁ ПРОСТО;real_estate_agent;https://www.cian.ru/sale/flat/315151317/;Москва;sale;flat;15;17;2;53.6;14700000;Чертаново Южное;Варшавское шоссе;152К8;Улица Академика Янгеля;
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/313828920/;Москва;sale;flat;6;24;2;52.9;15300000;Южное Бутово; Адмирала Лазарева;63к3;Бунинская аллея;LIFE-Лазаревское
+Геометрия;real_estate_agent;https://www.cian.ru/sale/flat/304572899/;Москва;sale;flat;5;17;3;73.8;14400000;; Дмитрия Рябинкина;2к2;Ватутинки;
+CENTURY 21 Перспектива;real_estate_agent;https://www.cian.ru/sale/flat/314013480/;Москва;sale;flat;6;14;1;39.2;11200000;Северное Бутово;Старобитцевская ;11;Улица Старокачаловская;
+ID 55253396;unknown;https://www.cian.ru/sale/flat/313641465/;Москва;sale;flat;8;16;2;47.9;14500000;; Потаповская Роща;24к1;Потапово;Белые ночи
+Азбука Жилья;real_estate_agent;https://www.cian.ru/sale/flat/314443288/;Москва;sale;flat;2;16;2;50.8;13899000;Братеево;Братеевская ;21К1;Борисово;
+Прайм Самолет Плюс;real_estate_agent;https://www.cian.ru/sale/flat/307717759/;Москва;sale;flat;11;17;1;39.0;13100000;Ховрино;Зеленоградская ;17К5;Грачёвская;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/311653503/;Москва;sale;flat;17;21;1;36.0;12700000;Ховрино;Левобережная ;4к8;Ховрино;
+Агентство недвижимости Елены Апостоловой;real_estate_agent;https://www.cian.ru/sale/flat/306885185/;Москва;sale;flat;3;17;2;79.2;15000000;; Спортивная;15;Щербинка;
+Мой Дом - отделение Добрынинское;real_estate_agent;https://www.cian.ru/sale/flat/315007135/;Москва;sale;flat;6;17;1;37.8;10950000;Западное Дегунино;Базовская ;12;Грачёвская;
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/313465446/;Москва;sale;flat;11;17;1;36.9;14750000;Митино;переулок Ангелов;8;Пятницкое шоссе;
+Самолет Плюс;real_estate_agent;https://www.cian.ru/sale/flat/314746500/;Москва;sale;flat;3;16;1;36.0;10850000;Чертаново Южное;Кировоградская ;44АК2;Улица Академика Янгеля;
+МИЭЛЬ;real_estate_agent;https://www.cian.ru/sale/flat/313822417/;Москва;sale;flat;10;14;1;40.0;13000000;Братеево;Алма-Атинская ;8К1;Алма-Атинская;
+АНПЛАНЕТА;real_estate_agent;https://www.cian.ru/sale/flat/314432874/;Москва;sale;flat;11;17;2;60.3;14500000;Некрасовка;Покровская ;17Ак3;Некрасовка;Некрасовка
+Прайм Самолет Плюс;real_estate_agent;https://www.cian.ru/sale/flat/315209925/;Москва;sale;flat;10;19;1;37.5;12000000;; Самуила Маршака;1;Мичуринец;Переделкино Ближнее Город-парк
+GENESIS BROKERS;real_estate_agent;https://www.cian.ru/sale/flat/314532744/;Москва;sale;flat;2;17;2;51.3;12500000;Некрасовка; Маресьева;3;Некрасовка;
+ГОРОБМЕН;real_estate_agent;https://www.cian.ru/sale/flat/315258781/;Москва;sale;flat;9;12;1;38.9;15000000;Нагатинский затон;Коломенская ;9;Нагатинский Затон;
+Capital Mars;real_estate_agent;https://www.cian.ru/sale/flat/314423329/;Москва;sale;flat;6;12;2;46.1;13100000;Отрадное;Алтуфьевское шоссе;40Б;Отрадное;
+Геометрия;real_estate_agent;https://www.cian.ru/sale/flat/314793321/;Москва;sale;flat;13;17;3;74.4;13990000;;проспект Нововатутинский;10;Кедровая;Новые Ватутинки, мкр. Центральный
+CENTURY 21 Столичная недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/314752140/;Москва;sale;flat;16;17;1;38.2;14100000;Восточное Дегунино; 800-летия Москвы;30;Бескудниково;
+Евгения Башко;realtor;https://www.cian.ru/sale/flat/314447539/;Москва;sale;flat;5;9;2;44.5;12700000;Люблино;Мариупольская ;5;Депо;
+Простор-недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/314503563/;Москва;sale;flat;2;16;3;77.8;13990000;Южное Бутово;1-я Мелитопольская ;10;Бутово;
+Прайм Самолет Плюс;real_estate_agent;https://www.cian.ru/sale/flat/314534489/;Москва;sale;flat;6;12;2;47.2;12800000;Алтуфьевский;Алтуфьевское шоссе;62Б;Бибирево;
+Самолет Плюс Москва ЦАО;real_estate_agent;https://www.cian.ru/sale/flat/314825812/;Москва;sale;flat;14;17;1;40.0;12700000;Орехово-Борисово Южное;Воронежская ;9;Домодедовская;
+ОГРК;real_estate_agent;https://www.cian.ru/sale/flat/314720076/;Москва;sale;flat;21;24;3;77.5;15500000;Некрасовка; Вертолетчиков;2Ак2;Некрасовка;В Некрасовке-2 (1 очередь)
+EstateLiga;real_estate_agent;https://www.cian.ru/sale/flat/312935343/;Москва;sale;flat;12;16;1;36.0;11600000;Царицыно;Бакинская ;25;Царицыно;
+CENTURY 21 Перспектива;real_estate_agent;https://www.cian.ru/sale/flat/312751146/;Москва;sale;flat;5;17;1;38.5;11200000;Некрасовка; Лавриненко;3А;Некрасовка;Некрасовка
+Самолет Плюс Москва ЦАО;real_estate_agent;https://www.cian.ru/sale/flat/314542959/;Москва;sale;flat;12;16;1;36.0;11800000;Царицыно;Бакинская ;25;Царицыно;
+Самолет плюс - Москва;real_estate_agent;https://www.cian.ru/sale/flat/312881543/;Москва;sale;flat;15;17;1;37.8;12700000;Орехово-Борисово Южное;Воронежская ;9;Домодедовская;
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/314446759/;Москва;sale;flat;6;12;2;47.0;14000000;Отрадное;Алтуфьевское шоссе;40Б;Отрадное;
+Константин Муравьев;realtor;https://www.cian.ru/sale/flat/314823109/;Москва;sale;flat;2;17;3;84.0;15500000;; Юбилейная;18;Щербинка;
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/313879841/;Москва;sale;flat;2;17;2;55.0;15500000;Чертаново Южное;Варшавское шоссе;152К8;Улица Академика Янгеля;
+ID 211507;unknown;https://www.cian.ru/sale/flat/295691204/;Москва;sale;flat;7;22;1;38.1;15490000;Обручевский; Обручева;28К8;Калужская;
+ВСЁ ПРОСТО;real_estate_agent;https://www.cian.ru/sale/flat/313650607/;Москва;sale;flat;2;17;2;54.0;15500000;Чертаново Южное;Варшавское шоссе;152К8;Улица Академика Янгеля;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/314903218/;Москва;sale;flat;8;17;2;55.0;15500000;Митино;Пятницкое шоссе;11;Волоколамская;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/313862979/;Москва;sale;flat;20;25;1;52.8;15500000;Хорошево-Мневники; Берзарина;21;Бульвар Генерала Карбышева;
+Георгий Романов;realtor;https://www.cian.ru/sale/flat/314845726/;Москва;sale;flat;4;16;2;54.2;15500000;Ясенево;Литовский бульвар;6К1;Ясенево;
+Простор-недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/303630787/;Москва;sale;flat;13;14;2;45.0;15600000;Войковский;Вокзальный переулок;8К2;Красный Балтиец;
+Император;real_estate_agent;https://www.cian.ru/sale/flat/308454634/;Москва;sale;flat;11;11;3;61.73;15600000;; 1-я Нововатутинская;3;Кедровая;Новые Ватутинки, мкр. Центральный
+Сергей Зилотов;realtor;https://www.cian.ru/sale/flat/315311015/;Москва;sale;flat;5;14;2;55.0;15700000;Северный;Долгопрудная аллея;15к4;Долгопрудная;Мой адрес в Северном
+Марина Сахненко;realtor;https://www.cian.ru/sale/flat/315221122/;Москва;sale;flat;7;14;2;38.0;15700000;Академический;Новочеремушкинская ;23;Академическая;
+EstateLiga;real_estate_agent;https://www.cian.ru/sale/flat/314850241/;Москва;sale;flat;13;14;2;45.0;15600000;Войковский;Вокзальный переулок;8К2;Красный Балтиец;
+Татьяна Куськова;realtor;https://www.cian.ru/sale/flat/312318381/;Москва;sale;flat;8;19;2;56.1;15600000;Северный;Дмитровское шоссе;169К4;Физтех;
+ID 55253396;unknown;https://www.cian.ru/sale/flat/314980957/;Москва;sale;flat;2;14;2;46.0;15700000;Северный;Дмитровское шоссе;124А;Физтех;Северный
+Олеся Богатова;realtor;https://www.cian.ru/sale/flat/311198778/;Москва;sale;flat;16;16;3;66.7;15650000;Алтуфьевский;Бибиревская ;7К2;Бибирево;
+Маршрут Построен;real_estate_agent;https://www.cian.ru/sale/flat/314640977/;Москва;sale;flat;2;16;2;50.6;15750000;Тимирязевский;3-й Нижнелихоборский проезд;16К1;Окружная;
+EstateLiga;real_estate_agent;https://www.cian.ru/sale/flat/315551786/;Москва;sale;flat;14;14;2;54.0;15800000;Ново-Переделкино;Новопеределкинская ;9;Новопеределкино;
+Макромир;real_estate_agent;https://www.cian.ru/sale/flat/311740742/;Москва;sale;flat;3;12;1;51.0;15800000;Очаково-Матвеевское;Большая Очаковская ;42К1;Озёрная;
+ГЕРМЕС;real_estate_agent;https://www.cian.ru/sale/flat/315539212/;Москва;sale;flat;4;17;1;38.0;15800000;Нагатинский затон;Коломенская набережная;12;Нагатинский Затон;
+Геометрия;real_estate_agent;https://www.cian.ru/sale/flat/315329852/;Москва;sale;flat;6;14;2;50.3;15850000;Братеево;Братеевская ;10К4;Алма-Атинская;
+Прайм Самолет Плюс;real_estate_agent;https://www.cian.ru/sale/flat/315136890/;Москва;sale;flat;8;9;1;41.0;15750000;Митино; Рословка;6К2;Пенягино;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/315403751/;Москва;sale;flat;6;22;1;38.3;15800000;Крылатское;Осенняя ;14;Крылатское;
+Самолет Плюс Москва ЦАО;real_estate_agent;https://www.cian.ru/sale/flat/314087821/;Москва;sale;flat;7;17;1;38.5;15800000;Зюзино;Сивашская ;7;Нахимовский проспект;
+Самолет Плюс;real_estate_agent;https://www.cian.ru/sale/flat/310687380/;Москва;sale;flat;14;16;2;60.3;15800000;; Лазурная;6;Коммунарка;
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/315151950/;Москва;sale;flat;11;17;2;51.3;15790000;Гольяново;Амурская ;56;Щёлковская;
+EstateLiga;real_estate_agent;https://www.cian.ru/sale/flat/315361450/;Москва;sale;flat;6;15;1;44.0;15800000;; Татьянин Парк;14к1;Говорово;Татьянин Парк
+Деловой Союз;real_estate_agent;https://www.cian.ru/sale/flat/313318627/;Москва;sale;flat;5;16;2;54.0;15800000;Бабушкинский; Менжинского;32К2;Бабушкинская;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/313348279/;Москва;sale;flat;15;19;2;58.0;15850000;Солнцево;Производственная ;4к2;Солнцево;
+Руслан Горовиков;realtor;https://www.cian.ru/sale/flat/308972112/;Москва;sale;flat;7;12;3;72.6;15750000;Люблино;Краснодонская ;39;Люблино;
+Наталья Кривенко;realtor;https://www.cian.ru/sale/flat/314434817/;Москва;sale;flat;4;17;2;53.7;16000000;Митино;Дубравная ;40К2;Митино;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/313662413/;Москва;sale;flat;5;11;2;59.6;16000000;; Летчика Ульянина;6;Пыхтино;Солнцево парк
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/315415463/;Москва;sale;flat;15;17;1;37.7;15990000;Сокольники;Русаковская ;28;Сокольники;
+Прайм Самолет Плюс;real_estate_agent;https://www.cian.ru/sale/flat/312982609/;Москва;sale;flat;11;26;1;37.8;16000000;Рязанский;2-й Грайвороновский проезд;42к3;Стахановская;Кварталы 21/19
+Прайм Самолет Плюс;real_estate_agent;https://www.cian.ru/sale/flat/314640331/;Москва;sale;flat;13;14;2;45.0;15900000;Войковский;Вокзальный переулок;8К2;Красный Балтиец;
+Полина  Башура;realtor;https://www.cian.ru/sale/flat/300253966/;Москва;sale;flat;10;17;2;50.6;15940000;Нагорный;Балаклавский проспект;12К3;Чертановская;
+Офис на Серпуховской;real_estate_agent;https://www.cian.ru/sale/flat/315386421/;Москва;sale;flat;6;16;2;51.0;16000000;Зюзино;Нахимовский проспект;7К1;Нахимовский проспект;
+ТЕРЕМГРАД;real_estate_agent;https://www.cian.ru/sale/flat/314887711/;Москва;sale;flat;5;17;2;55.0;16000000;Выхино-Жулебино;Привольная ;5К2;Лермонтовский проспект;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/311244031/;Москва;sale;flat;13;16;2;53.7;15990000;Можайский;Можайское шоссе;33;Рабочий посёлок;
+Классика;real_estate_agent;https://www.cian.ru/sale/flat/315411124/;Москва;sale;flat;16;17;1;39.0;16000000;Левобережный;Беломорская ;20к1;Беломорская;
+Профессиональный Риэлтор;real_estate_agent;https://www.cian.ru/sale/flat/315058332/;Москва;sale;flat;8;16;2;54.8;16000000;Хорошево-Мневники; Берзарина;3К2;Зорге;
+ЛАРТ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/315371323/;Москва;sale;flat;4;9;3;49.0;16000000;Строгино;Строгинский бульвар;7К2;Строгино;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/303918331/;Москва;sale;flat;11;16;2;51.7;15950000;Лефортово;Авиамоторная ;34К1;Авиамоторная;
+Эльвис Эмиров;realtor;https://www.cian.ru/sale/flat/314934315/;Москва;sale;flat;15;25;1;34.0;16000000;Митино;Пятницкое шоссе;21;Митино;LIFE-Митинская
+Кутузовский проспект;real_estate_agent;https://www.cian.ru/sale/flat/301725883/;Москва;sale;flat;3;3;2;65.4;15990000;; Кедровая;16;Десна;
+Сергей Левченко;realtor;https://www.cian.ru/sale/flat/312166665/;Москва;sale;flat;2;16;3;77.0;16000000;Южное Бутово;Скобелевская ;1к1;Улица Скобелевская;
+ГОРОДА;real_estate_agent;https://www.cian.ru/sale/flat/314996973/;Москва;sale;flat;11;14;3;74.3;16000000;; Юбилейная;3;Щербинка;
+RealLife;real_estate_agent;https://www.cian.ru/sale/flat/314715927/;Москва;sale;flat;3;9;3;58.4;16000000;Ясенево;Новоясеневский проспект;13К1;Ясенево;
+ОГРК;real_estate_agent;https://www.cian.ru/sale/flat/313476885/;Москва;sale;flat;11;17;2;53.9;16000000;Крылатское;Осенняя ;30;Крылатское;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/314560256/;Москва;sale;flat;6;9;3;49.4;15900000;Дмитровский;Клязьминская ;32К1;Лианозово;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/312719203/;Москва;sale;flat;5;17;2;63.6;16000000;; Летчика Грицевца;12;Пыхтино;Солнцево парк
+Александр Ладочкин;realtor;https://www.cian.ru/sale/flat/314726707/;Москва;sale;flat;8;16;1;38.0;16000000;Нагатинский затон;Коломенская набережная;10;Нагатинский Затон;
+МИЭЛЬ Офис Пречистенка;real_estate_agent;https://www.cian.ru/sale/flat/312579613/;Москва;sale;flat;12;25;1;48.04;16000000;Южное Бутово; Поляны;5;Улица Скобелевская;Эталон-Сити
+Дмитрий Шувалов;realtor;https://www.cian.ru/sale/flat/315364747/;Москва;sale;flat;3;16;2;55.0;16000000;Тропарево-Никулино; Академика Анохина;6К3;Юго-Западная;
+Максим Кочетов;realtor;https://www.cian.ru/sale/flat/313645435/;Москва;sale;flat;15;16;2;51.0;16000000;Теплый Стан; Генерала Тюленева;3;Генерала Тюленева;
+Надежда Хохлова;realtor;https://www.cian.ru/sale/flat/313684179/;Москва;sale;flat;2;17;4;74.0;16000000;Люблино;Ставропольская ;74;Люблино;
+ПРОСПЕКТ;real_estate_agent;https://www.cian.ru/sale/flat/307504105/;Москва;sale;flat;4;12;3;64.0;16100000;Восточное Дегунино;Дубнинская ;22К1;Дегунино;
+Простор-недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/306161649/;Москва;sale;flat;4;17;2;52.0;16100000;Коньково; Академика Капицы;34/121;Коньково;
+i-deal;real_estate_agent;https://www.cian.ru/sale/flat/315145602/;Москва;sale;flat;4;12;2;54.0;16100000;Марьино;Новомарьинская ;3К3;Марьино;
+ИНФИНИТИ;real_estate_agent;https://www.cian.ru/sale/flat/315165982/;Москва;sale;flat;7;12;3;63.0;16300000;Западное Дегунино; Бусиновская Горка;11К1;Ховрино;
+АС-Риэлти;real_estate_agent;https://www.cian.ru/sale/flat/314150370/;Москва;sale;flat;4;14;3;65.2;16300000;Западное Дегунино;Новая ;10;Грачёвская;
+ГОРОБМЕН;real_estate_agent;https://www.cian.ru/sale/flat/313446262/;Москва;sale;flat;6;9;2;45.0;16375000;Отрадное; Декабристов;36Б;Отрадное;
+Галерея Недвижимости;real_estate_agent;https://www.cian.ru/sale/flat/313457688/;Москва;sale;flat;15;16;2;52.3;16300000;Орехово-Борисово Северное; Маршала Захарова;19;Орехово;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/314668867/;Москва;sale;flat;8;20;1;41.1;16300000;; Самуила Маршака;15;Рассказовка;Переделкино Ближнее Город-парк
+Простор-недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/315435222/;Москва;sale;flat;13;14;2;54.1;16300000;Дмитровский;Учинская ;3к1;Яхромская;
+ИНКОМ-Недвижимость. Аренда;real_estate_agent;https://www.cian.ru/sale/flat/307156248/;Москва;sale;flat;6;15;2;61.1;16200000;; Потаповская Роща;24к2;Потапово;Белые ночи
+WHITE BROKER;real_estate_agent;https://www.cian.ru/sale/flat/314539880/;Москва;sale;flat;7;12;2;52.6;16350000;Алтуфьевский;Алтуфьевское шоссе;60;Бибирево;
+Елена Рябенко;realtor;https://www.cian.ru/sale/flat/306219356/;Москва;sale;flat;14;17;3;73.4;16200000;Западное Дегунино;Новая ;5;Грачёвская;
+Игорь Кузнецов;realtor;https://www.cian.ru/sale/flat/308205901/;Москва;sale;flat;5;12;2;53.0;16300000;Нагатинский затон;Коломенская ;5;Нагатинский Затон;
+ГОРОБМЕН;real_estate_agent;https://www.cian.ru/sale/flat/298139692/;Москва;sale;flat;6;23;1;39.0;16200000;Рязанский;2-й Грайвороновский проезд;42к4;Стахановская;Кварталы 21/19
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/311773778/;Москва;sale;flat;4;10;2;51.2;16200000;Можайский; Кутузова;2;Рабочий посёлок;
+Марина Жукова;realtor;https://www.cian.ru/sale/flat/314786053/;Москва;sale;flat;2;16;2;54.0;16300000;Коптево;3-й Новомихалковский проезд;8К1;Коптево;
+Capital Mars;real_estate_agent;https://www.cian.ru/sale/flat/314628317/;Москва;sale;flat;5;17;2;53.5;16500000;Ново-Переделкино; Шолохова;10;Новопеределкино;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/315251251/;Москва;sale;flat;2;16;2;53.7;16400000;Тропарево-Никулино;улица Мичуринский проспект Олимпийская деревня;13;Озёрная;
+Самолет Плюс Москва ЮГ;real_estate_agent;https://www.cian.ru/sale/flat/304792538/;Москва;sale;flat;6;14;2;58.9;16500000;Кузьминки;Есенинский бульвар;16;Кузьминки;
+Мой Дом - отделение Добрынинское;real_estate_agent;https://www.cian.ru/sale/flat/315081638/;Москва;sale;flat;7;12;2;56.3;16500000;Бескудниковский;Дмитровское шоссе;64К5;Верхние Лихоборы;
+Прайм Самолет Плюс;real_estate_agent;https://www.cian.ru/sale/flat/314497656/;Москва;sale;flat;11;25;1;35.0;16500000;Солнцево;Боровское шоссе;2Ак4;Говорово;Мещерский лес
+Ольга Кожемякина;realtor;https://www.cian.ru/sale/flat/307698254/;Москва;sale;flat;5;17;2;62.0;16500000;Ново-Переделкино; Скульптора Мухиной;12;Новопеределкино;
+Бест офис на Таганской;real_estate_agent;https://www.cian.ru/sale/flat/315446670/;Москва;sale;flat;10;12;3;61.5;16500000;Свиблово;Вересковая ;13;Свиблово;
+Белый Город;real_estate_agent;https://www.cian.ru/sale/flat/310066223/;Москва;sale;flat;2;17;2;50.0;16500000;Крылатское;Осенний бульвар;18К2;Крылатское;
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/312554025/;Москва;sale;flat;24;25;2;48.0;16500000;Рязанский; Академика Скрябина;6;Рязанский проспект;
+СТАТУС;real_estate_agent;https://www.cian.ru/sale/flat/308540058/;Москва;sale;flat;10;17;2;53.8;16400000;Митино;Пятницкое шоссе;45;Пятницкое шоссе;
+Игорь Соловьев;realtor;https://www.cian.ru/sale/flat/306156992/;Москва;sale;flat;14;15;2;52.7;16500000;; Потаповская Роща;24к2;Потапово;Белые ночи
+Александра Петрашко;realtor;https://www.cian.ru/sale/flat/315134751/;Москва;sale;flat;16;16;2;50.2;16500000;Головинский;Кронштадтский бульвар;24К1;Коптево;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/312719235/;Москва;sale;flat;11;12;3;74.8;16500000;Северное Медведково;Осташковская ;30;Медведково;
+Аметист;real_estate_agent;https://www.cian.ru/sale/flat/312759945/;Москва;sale;flat;2;17;3;73.8;16500000;Москворечье-Сабурово;Кантемировская ;4К3;Москворечье;
+Денис Зубрилин;realtor;https://www.cian.ru/sale/flat/315159997/;Москва;sale;flat;4;17;2;50.0;16500000;Крылатское;Осенний бульвар;16К2;Крылатское;
+EMPIRE HOME;real_estate_agent;https://www.cian.ru/sale/flat/312541092/;Москва;sale;flat;15;20;3;72.5;16500000;; Летчика Ульянина;4;Пыхтино;
+Павел Середа;realtor;https://www.cian.ru/sale/flat/298393502/;Москва;sale;flat;14;16;2;53.0;16500000;Митино; Барышиха;25к1;Митино;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/308612708/;Москва;sale;flat;13;16;2;54.1;16500000;Теплый Стан;Ленинский проспект;129А;Тропарёво;
+Маргарита Шорина;realtor;https://www.cian.ru/sale/flat/311385908/;Москва;sale;flat;13;16;3;65.2;16400000;Можайский;Рябиновая ;8к1;Рабочий посёлок;
+ID 12707182;realtor;https://www.cian.ru/sale/flat/310001356/;Москва;sale;flat;2;12;3;68.0;16500000;Люблино;Тихорецкий бульвар;4К1;Люблино;
+Владимир Васильев;realtor;https://www.cian.ru/sale/flat/305519650/;Москва;sale;flat;22;26;1;39.3;16500000;Обручевский; Новаторов;4К5;Новаторская;
+Дмитрий Чурков;realtor;https://www.cian.ru/sale/flat/312009056/;Москва;sale;flat;12;17;3;74.9;16500000;Ново-Переделкино; Скульптора Мухиной;12;Новопеределкино;
+Никита Алексеевич Соловьев;realtor;https://www.cian.ru/sale/flat/313445907/;Москва;sale;flat;2;9;3;58.5;16600000;Ясенево;Голубинская ;15/10;Ясенево;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/313486738/;Москва;sale;flat;4;22;2;57.0;16600000;Южнопортовый;2-й Южнопортовый проезд;13;Кожуховская;
+ГОРОБМЕН;real_estate_agent;https://www.cian.ru/sale/flat/315404918/;Москва;sale;flat;11;17;2;53.5;16650000;Москворечье-Сабурово; Москворечье;4К3;Кантемировская;
+МИЭЛЬ;real_estate_agent;https://www.cian.ru/sale/flat/313945161/;Москва;sale;flat;17;22;2;45.8;16650000;Бирюлево Восточное;Ягодная ;8к1;Бирюлёво;Загорье
+FN Realty;real_estate_agent;https://www.cian.ru/sale/flat/315437249/;Москва;sale;flat;10;17;2;50.8;16800000;Митино;Митинская ;32;Митино;
+Самолет плюс Троицк;real_estate_agent;https://www.cian.ru/sale/flat/315349894/;Москва;sale;flat;11;14;3;84.6;16800000;; 3-я Нововатутинская;7;Кедровая;
+ВСЁ ПРОСТО;real_estate_agent;https://www.cian.ru/sale/flat/313796661/;Москва;sale;flat;7;17;2;59.0;16700000;Братеево; Борисовские Пруды;38;Алма-Атинская;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/312952866/;Москва;sale;flat;5;12;3;73.1;16850000;; 2-я Нововатутинская;1;Кедровая;Новые Ватутинки, мкр. Центральный
+Макромир;real_estate_agent;https://www.cian.ru/sale/flat/315222380/;Москва;sale;flat;2;12;3;65.0;16700000;Лианозово;Абрамцевская ;5;Алтуфьево;
+Александр Кабанов;realtor;https://www.cian.ru/sale/flat/302222687/;Москва;sale;flat;3;14;4;75.2;16700000;Алтуфьевский;Путевой проезд;14К1;Бескудниково;
+ГОРОБМЕН;real_estate_agent;https://www.cian.ru/sale/flat/315024736/;Москва;sale;flat;10;17;3;74.5;16800000;Южное Бутово;бульвар Адмирала Ушакова;11;Улица Скобелевская;
+Адреса;real_estate_agent;https://www.cian.ru/sale/flat/299373165/;Москва;sale;flat;11;14;3;64.2;16800000;Северное Медведково;Студеный проезд;5;Медведково;
+Простор-недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/311246546/;Москва;sale;flat;17;19;2;55.0;16850000;Ховрино;Левобережная ;4к9;Ховрино;
+Самолет Плюс-Тропарево;real_estate_agent;https://www.cian.ru/sale/flat/309552714/;Москва;sale;flat;4;14;2;51.2;16700000;Северное Медведково;проезд Шокальского;49К1;Медведково;
+МИЭЛЬ;real_estate_agent;https://www.cian.ru/sale/flat/310867175/;Москва;sale;flat;13;16;2;54.2;16800000;Ясенево;Новоясеневский проспект;22К1;Ясенево;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/309565921/;Москва;sale;flat;18;19;1;40.8;16700000;Рязанский; Михайлова;31А;Плющево;Михайлова, 31
+Татьяна Кирикой;realtor;https://www.cian.ru/sale/flat/311687618/;Москва;sale;flat;11;12;2;52.6;16800000;Строгино; Твардовского;31К2;Строгино;
+МРИЭЛТОР - офис Отрадное;real_estate_agent;https://www.cian.ru/sale/flat/307994430/;Москва;sale;flat;8;14;3;72.0;16850000;Северное Медведково;Студеный проезд;13;Медведково;
+Сергей Савин;realtor;https://www.cian.ru/sale/flat/314832331/;Москва;sale;flat;2;24;2;54.6;16700000;Бескудниковский;Бескудниковский бульвар;20К5;Селигерская;
+Trust Realty;real_estate_agent;https://www.cian.ru/sale/flat/307112151/;Москва;sale;flat;5;14;2;47.5;16900000;Марьина роща;Стрелецкая ;11;Марьина Роща;
+ИНФИНИТИ;real_estate_agent;https://www.cian.ru/sale/flat/312670202/;Москва;sale;flat;14;16;3;64.5;16990000;Бескудниковский;Коровинское шоссе;6К2;Селигерская;
+Инна Гунина;realtor;https://www.cian.ru/sale/flat/312863016/;Москва;sale;flat;3;16;2;54.0;16900000;Тропарево-Никулино;улица Мичуринский проспект Олимпийская деревня;16;Озёрная;
+Лариса Буслаева;realtor;https://www.cian.ru/sale/flat/304477726/;Москва;sale;flat;10;10;3;75.0;16900000;Южное Бутово;Бартеневская ;41;Улица Горчакова;
+МИЭЛЬ;real_estate_agent;https://www.cian.ru/sale/flat/315537254/;Москва;sale;flat;10;17;1;39.0;17000000;Черемушки;Новочеремушкинская ;49;Профсоюзная;
+Элитный Дом;real_estate_agent;https://www.cian.ru/sale/flat/314426363/;Москва;sale;flat;6;19;1;38.0;17000000;Нагатинский затон;Коломенская ;12к3;Нагатинский Затон;Ривер Парк Коломенское
+Навигатор;real_estate_agent;https://www.cian.ru/sale/flat/315153794/;Москва;sale;flat;13;21;2;54.9;16900000;Ховрино;Левобережная ;4к8;Ховрино;
+Навигатор;real_estate_agent;https://www.cian.ru/sale/flat/313870178/;Москва;sale;flat;8;12;3;63.0;16900000;Нагорный;Болотниковская ;10кА;Нахимовский проспект;
+ДИАЛЬ-НЕДВИЖИМОСТЬ;real_estate_agent;https://www.cian.ru/sale/flat/314370792/;Москва;sale;flat;21;25;1;40.0;16990000;Митино;Митинская ;28к5;Митино;Life-Митинская Ecopark
+Эдуард Егиазарян;realtor;https://www.cian.ru/sale/flat/315000936/;Москва;sale;flat;2;14;2;58.5;16990000;Северный;Челобитьевское шоссе;10к2;Физтех;
+Вотчина;real_estate_agent;https://www.cian.ru/sale/flat/312579069/;Москва;sale;flat;18;18;2;60.0;16990000;Бутырский; Милашенкова;20;Фонвизинская;
+Монолит Столица;real_estate_agent;https://www.cian.ru/sale/flat/315312598/;Москва;sale;flat;13;19;2;54.9;16900000;Ховрино;Левобережная ;4к8;Ховрино;
+i-deal;real_estate_agent;https://www.cian.ru/sale/flat/315143708/;Москва;sale;flat;13;17;3;74.0;17000000;Бирюлево Восточное;Бирюлевская ;45К1;Лебедянская;
+ГОРОБМЕН;real_estate_agent;https://www.cian.ru/sale/flat/314361755/;Москва;sale;flat;15;17;2;52.0;16999999;Орехово-Борисово Южное;Воронежская ;11/4;Домодедовская;
+Монолит Столица;real_estate_agent;https://www.cian.ru/sale/flat/310554100/;Москва;sale;flat;11;12;2;57.6;17000000;Южное Бутово;Бартеневская ;41;Улица Горчакова;
+Монолит Столица;real_estate_agent;https://www.cian.ru/sale/flat/313226478/;Москва;sale;flat;16;17;2;58.9;16900000;; Самуила Маршака;8;Рассказовка;Переделкино Ближнее Город-парк
+Самолет плюс;real_estate_agent;https://www.cian.ru/sale/flat/313279567/;Москва;sale;flat;5;17;2;53.4;16900000;Ново-Переделкино; Шолохова;10;Новопеределкино;
+Карандашов и партнеры;real_estate_agent;https://www.cian.ru/sale/flat/314687687/;Москва;sale;flat;19;24;2;61.0;16900000;Гольяново;Щелковское шоссе;69к1;Щёлковская;
+HOMEWAY;real_estate_agent;https://www.cian.ru/sale/flat/301060226/;Москва;sale;flat;5;17;2;60.0;17000000;Бескудниковский;Дубнинская ;45К1;Дегунино;
+Сергей Хильченко;realtor;https://www.cian.ru/sale/flat/307546820/;Москва;sale;flat;12;17;3;75.0;17000000;Ново-Переделкино;Новопеределкинская ;16;Боровское шоссе;
+Респект;real_estate_agent;https://www.cian.ru/sale/flat/314784863/;Москва;sale;flat;7;22;2;56.7;17000000;Северный;Челобитьевское шоссе;12к1;Физтех;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/310203130/;Москва;sale;flat;8;17;2;51.0;16900000;Савеловский;Бутырская ;79;Дмитровская;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/313194059/;Москва;sale;flat;9;17;2;58.4;16900000;Митино;Пятницкое шоссе;27К1;Митино;
+ИНКОМ-Недвижимость. Аренда;real_estate_agent;https://www.cian.ru/sale/flat/313474267/;Москва;sale;flat;9;12;3;63.0;17000000;Отрадное;Алтуфьевское шоссе;32;Дегунино;
+Марина Харламова;realtor;https://www.cian.ru/sale/flat/314404877/;Москва;sale;flat;4;16;2;53.7;16900000;Тропарево-Никулино;улица Мичуринский проспект Олимпийская деревня;18;Озёрная;
+Оксана Шефер;realtor;https://www.cian.ru/sale/flat/314247674/;Москва;sale;flat;14;14;3;74.0;17000000;Выхино-Жулебино;Привольная ;77;Котельники;
+БЕСТ-Недвижимость на Баррикадной;real_estate_agent;https://www.cian.ru/sale/flat/311203562/;Москва;sale;flat;15;17;2;54.0;17100000;Митино;Пятницкое шоссе;31;Митино;
+Светлана Бегункова;realtor;https://www.cian.ru/sale/flat/314841710/;Москва;sale;flat;5;17;1;35.0;17100000;Зюзино;Чонгарский бульвар;26Ак2;Каховская;Родной город. Каховская
+Марина Голда;realtor;https://www.cian.ru/sale/flat/298267385/;Москва;sale;flat;17;22;3;77.5;17100000;Крюково;Зеленоград;к1551;Зеленоград — Крюково;
+Сергей Александрович Васильев;realtor;https://www.cian.ru/sale/flat/314419302/;Москва;sale;flat;7;14;1;36.0;17300000;Щукино; Маршала Рыбалко;2к2;Панфиловская;
+Юлия Куликова;realtor;https://www.cian.ru/sale/flat/311350388/;Москва;sale;flat;3;12;1;39.0;17200000;Таганский;Таганская ;31/22;Пролетарская;
+ОГРК;real_estate_agent;https://www.cian.ru/sale/flat/314847712/;Москва;sale;flat;13;17;3;76.5;17200000;Некрасовка;Рождественская ;23/33;Некрасовка;
+Формула жилья;real_estate_agent;https://www.cian.ru/sale/flat/314852776/;Москва;sale;flat;7;7;2;54.0;17200000;Марьино;Мячковский бульвар;8К3;Братиславская;
+Метр-Инфо;real_estate_agent;https://www.cian.ru/sale/flat/312785189/;Москва;sale;flat;10;22;2;58.2;17300000;Ховрино;Зеленоградская ;33К7;Ховрино;
+Лилия Лопатина;realtor;https://www.cian.ru/sale/flat/311679837/;Москва;sale;flat;10;16;3;75.0;17300000;Лианозово;Псковская ;12к1;Лианозово;
+АМТ - недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/305156081/;Москва;sale;flat;2;12;4;85.4;17300000;Кузьминки;Окская ;8К2;Кузьминки;
+Татьяна Зрелова;realtor;https://www.cian.ru/sale/flat/315537628/;Москва;sale;flat;12;25;2;54.0;17200000;Бескудниковский;Дмитровское шоссе;86;Селигерская;
+Дарья Базылева;realtor;https://www.cian.ru/sale/flat/314153332/;Москва;sale;flat;10;14;3;64.0;17200000;Митино; Барышиха;46;Пятницкое шоссе;
+Наталья Александровна Зайкина;realtor;https://www.cian.ru/sale/flat/306225215/;Москва;sale;flat;9;17;2;64.0;17300000;; Бориса Пастернака;11;Рассказовка;Переделкино Ближнее Город-парк
+Михаил Тарасов;realtor;https://www.cian.ru/sale/flat/312460580/;Москва;sale;flat;9;17;3;74.2;17300000;Москворечье-Сабурово;Кантемировская ;4К1;Москворечье;
+Яна Иванова;realtor;https://www.cian.ru/sale/flat/313689079/;Москва;sale;flat;7;16;2;52.0;17300000;Коньково;Миклухо-Маклая ;27К1;Университет Дружбы Народов;
+Елена Рощина;realtor;https://www.cian.ru/sale/flat/310452104/;Москва;sale;flat;3;17;3;74.6;17300000;Братеево; Борисовские Пруды;24/2;Алма-Атинская;
+ИНФИНИТИ;real_estate_agent;https://www.cian.ru/sale/flat/313680306/;Москва;sale;flat;6;14;2;55.0;17500000;Южнопортовый;Шарикоподшипниковская ;28;Дубровка;
+Никита Алексеевич Соловьев;realtor;https://www.cian.ru/sale/flat/314754193/;Москва;sale;flat;15;22;2;58.0;17500000;Ховрино;Зеленоградская ;33К7;Ховрино;
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/313855423/;Москва;sale;flat;12;12;3;63.9;17500000;Зябликово; Мусы Джалиля;17К2;Шипиловская;
+БЕСТ-Недвижимость на Баррикадной;real_estate_agent;https://www.cian.ru/sale/flat/314437653/;Москва;sale;flat;12;12;3;65.8;17500000;Люблино;Краснодарская ;57К1;Люблино;
+Прайм Самолет Плюс;real_estate_agent;https://www.cian.ru/sale/flat/314847701/;Москва;sale;flat;10;14;2;52.3;17500000;Нагорный;Фруктовая ;8К2;Нахимовский проспект;
+Isaev Estate;real_estate_agent;https://www.cian.ru/sale/flat/309338522/;Москва;sale;flat;5;17;2;50.2;17400000;Крылатское;Рублевское шоссе;34К1;Крылатское;
+МГСН;real_estate_agent;https://www.cian.ru/sale/flat/314888915/;Москва;sale;flat;12;12;3;68.0;17500000;Люблино;Краснодарская ;57К1;Люблино;
+Олег Гуркин;realtor;https://www.cian.ru/sale/flat/312578354/;Москва;sale;flat;3;12;2;53.0;17500000;Строгино; Кулакова;19;Строгино;
+МИЭЛЬ Офис Пречистенка;real_estate_agent;https://www.cian.ru/sale/flat/302590028/;Москва;sale;flat;6;16;2;52.6;17500000;Обручевский; Новаторов;40К2;Новаторская;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/313917745/;Москва;sale;flat;11;12;3;80.2;17500000;Бирюлево Восточное;Лебедянская ;30;Лебедянская;
+Светлана Рыбакова;realtor;https://www.cian.ru/sale/flat/313197600/;Москва;sale;flat;4;16;3;65.1;17500000;Лианозово;Череповецкая ;6;Лианозово;
+СмениКварти.Ру;real_estate_agent;https://www.cian.ru/sale/flat/314715975/;Москва;sale;flat;12;12;3;73.5;17500000;Южное Бутово;Южнобутовская ;51;Улица Горчакова;
+Загородный Мир;real_estate_agent;https://www.cian.ru/sale/flat/304416565/;Москва;sale;flat;17;17;3;73.5;17500000;Новокосино;Суздальская ;42К3;Новокосино;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/312248685/;Москва;sale;flat;4;17;2;53.5;17500000;Крылатское;Осенняя ;26;Крылатское;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/313245392/;Москва;sale;flat;3;12;2;50.5;17500000;Строгино;Таллинская ;17К3;Строгино;
+Анжела Мумладзе;realtor;https://www.cian.ru/sale/flat/314595124/;Москва;sale;flat;12;17;2;58.0;17500000;Братеево; Борисовские Пруды;14К4;Борисово;
+Степанов и партнеры;real_estate_agent;https://www.cian.ru/sale/flat/314540001/;Москва;sale;flat;11;12;2;52.1;17500000;Отрадное; Декабристов;8К1;Отрадное;
+ИНФИНИТИ;real_estate_agent;https://www.cian.ru/sale/flat/314720078/;Москва;sale;flat;7;17;3;75.5;17700000;Северное Бутово; Грина;5;Улица Старокачаловская;
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/315568030/;Москва;sale;flat;3;12;2;48.7;17700000;Южнопортовый;2-й Южнопортовый проезд;7;Кожуховская;
+Электронная торговая площадка ГПБ;real_estate_agent;https://www.cian.ru/sale/flat/315088124/;Москва;sale;flat;10;17;2;51.4;17700000;Черемушки; Наметкина;9;Новые Черёмушки;
+Баграт Мурадян;realtor;https://www.cian.ru/sale/flat/300579860/;Москва;sale;flat;4;17;2;53.5;17650000;Крылатское; Крылатские Холмы;41К2;Крылатское;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/313794524/;Москва;sale;flat;5;14;1;39.6;17800000;Южное Тушино; Фабрициуса;22;Сходненская;
+Комти-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/311718577/;Москва;sale;flat;9;17;2;54.0;17850000;Тропарево-Никулино;Никулинская ;23К3;Озёрная;
+Дмитрий Дидков;realtor;https://www.cian.ru/sale/flat/307459648/;Москва;sale;flat;2;17;3;74.2;17790000;; Авиаконструктора Петлякова;5;Пыхтино;
+Сергей Георгиевский;realtor;https://www.cian.ru/sale/flat/315566208/;Москва;sale;flat;10;14;3;73.0;18000000;Новокосино;Суздальская ;40К2;Новокосино;
+АЯКС;real_estate_agent;https://www.cian.ru/sale/flat/314713406/;Москва;sale;flat;7;9;4;65.0;17999999;Люблино;Совхозная ;18К2;Люблино;
+ЕГСН Продажа;real_estate_agent;https://www.cian.ru/sale/flat/306829399/;Москва;sale;flat;2;17;3;72.8;18000000;Некрасовка;Покровская ;31;Некрасовка;
+Лариса Прокофьева;realtor;https://www.cian.ru/sale/flat/314396112/;Москва;sale;flat;7;16;3;74.5;17900000;Восточное Дегунино;Керамический проезд;77К2;Лианозово;
+ОПН24;real_estate_agent;https://www.cian.ru/sale/flat/315414312/;Москва;sale;flat;11;17;2;51.0;18000000;Орехово-Борисово Северное;Шипиловский проезд;45К1;Орехово;
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/315236635/;Москва;sale;flat;11;14;2;47.6;17900000;Басманный; Новая Дорога;1;Лефортово;
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/314434060/;Москва;sale;flat;8;21;1;52.0;18000000;Чертаново Южное; Академика Янгеля;1к1;Улица Академика Янгеля;Чертановский
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/314271609/;Москва;sale;flat;6;17;3;74.9;17900000;Бирюлево Восточное;Липецкая ;17К1;Лебедянская;
+Император;real_estate_agent;https://www.cian.ru/sale/flat/293613557/;Москва;sale;flat;2;3;2;63.3;18000000;; Гимнастическая;12;Десна;
+Комета Эстейт;real_estate_agent;https://www.cian.ru/sale/flat/314636128/;Москва;sale;flat;15;19;1;37.4;18000000;Нагатинский затон;Коломенская ;12к2;Нагатинский Затон;Ривер Парк Коломенское
+Дмитрий Корякин;realtor;https://www.cian.ru/sale/flat/303421052/;Москва;sale;flat;3;14;3;69.0;18000000;Коптево;проезд Черепановых;56К1;Лихоборы;
+Елена Дерр;realtor;https://www.cian.ru/sale/flat/314058830/;Москва;sale;flat;4;9;3;58.9;18000000;Ясенево;Новоясеневский проспект;40К3;Новоясеневская;
+Олег Домашкевич;realtor;https://www.cian.ru/sale/flat/313241552/;Москва;sale;flat;17;17;3;72.7;18000000;Ново-Переделкино;Боровское шоссе;45;Новопеределкино;
+Монолит Столица;real_estate_agent;https://www.cian.ru/sale/flat/312672157/;Москва;sale;flat;10;17;2;53.8;18000000;Крылатское;Осенняя ;30;Крылатское;
+Isaev Estate;real_estate_agent;https://www.cian.ru/sale/flat/307712215/;Москва;sale;flat;14;17;1;38.5;17900000;Крылатское;Осенний бульвар;8К1;Крылатское;
+Ян Кальян;realtor;https://www.cian.ru/sale/flat/313049045/;Москва;sale;flat;3;16;3;69.0;18000000;Текстильщики;Саратовская ;1К1;Текстильщики;
+Центральный Департамент Недвижимости;real_estate_agent;https://www.cian.ru/sale/flat/315265024/;Москва;sale;flat;16;22;1;38.1;18000000;Таганский; Рогожский Вал;2/50;Площадь Ильича;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/314500451/;Москва;sale;flat;7;22;2;57.0;18000000;Ховрино; Дыбенко;2;Беломорская;
+Landis;real_estate_agent;https://www.cian.ru/sale/flat/313244607/;Москва;sale;flat;15;19;1;37.4;18000000;Нагатинский затон;Коломенская ;12к2;Нагатинский Затон;Ривер Парк Коломенское
+ОГРК;real_estate_agent;https://www.cian.ru/sale/flat/315077666/;Москва;sale;flat;9;17;3;76.4;18000000;Некрасовка;проспект Защитников Москвы;12;Некрасовка;Некрасовка-Парк
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/313650058/;Москва;sale;flat;9;12;3;63.0;18000000;Нагорный;Фруктовая ;9А;Нахимовский проспект;
+Доступная Недвижимость. 8 отдел;real_estate_agent;https://www.cian.ru/sale/flat/311151346/;Москва;sale;flat;11;12;1;39.1;17900000;Красносельский;Большая Спасская ;6/1;Площадь трёх вокзалов;
+СОЗВЕЗДИЕ;real_estate_agent;https://www.cian.ru/sale/flat/300001214/;Москва;sale;flat;14;14;3;62.2;18000000;Западное Дегунино;Ангарская ;17;Грачёвская;
+К.А.Н.;real_estate_agent;https://www.cian.ru/sale/flat/310178637/;Москва;sale;flat;10;17;3;87.2;18000000;Некрасовка; Сочинская;2;Некрасовка;
+Алла Зданевич;realtor;https://www.cian.ru/sale/flat/313628604/;Москва;sale;flat;15;17;3;74.7;17950000;Некрасовка; Недорубова;27;Некрасовка;
+Татьяна Белая;realtor;https://www.cian.ru/sale/flat/314713325/;Москва;sale;flat;8;16;2;53.6;18000000;Марьина роща;Октябрьская ;105К1;Марьина Роща;
+Станислав Девятилов;realtor;https://www.cian.ru/sale/flat/313399651/;Москва;sale;flat;16;17;3;76.1;18000000;Некрасовка;проспект Защитников Москвы;12;Некрасовка;Некрасовка-Парк
+Венера Буткова;realtor;https://www.cian.ru/sale/flat/309402923/;Москва;sale;flat;5;17;2;51.0;17900000;Северное Медведково;Полярная ;54К1;Медведково;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/315440661/;Москва;sale;flat;11;17;2;55.0;18100000;Северное Тушино; Вилиса Лациса;27К1;Планерная;
+Наталья Салтыкова;realtor;https://www.cian.ru/sale/flat/314385212/;Москва;sale;flat;3;16;2;53.0;18100000;Бутырский; Яблочкова;23К2;Тимирязевская;
+Диамантъ;real_estate_agent;https://www.cian.ru/sale/flat/314037681/;Москва;sale;flat;17;17;1;40.0;18150000;Красносельский;Верхняя Красносельская ;10к7а;Красносельская;
+МГСН;real_estate_agent;https://www.cian.ru/sale/flat/312682507/;Москва;sale;flat;13;20;2;64.1;18100000;; Самуила Маршака;15;Рассказовка;Переделкино Ближнее Город-парк
+Мария Евдокимова;realtor;https://www.cian.ru/sale/flat/308901944/;Москва;sale;flat;12;12;3;64.0;18100000;Строгино; Кулакова;25К1;Строгино;
+Анна Долгополова;realtor;https://www.cian.ru/sale/flat/314299537/;Москва;sale;flat;11;12;3;60.6;18249990;Строгино;Таллинская ;11К1;Строгино;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/312253711/;Москва;sale;flat;2;17;3;78.0;18200000;Москворечье-Сабурово;Кантемировская ;4К1;Москворечье;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/314832043/;Москва;sale;flat;6;14;2;53.5;18400000;Нагатинский затон;Нагатинская набережная;40/1;Коломенская;
+АРМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/314591485/;Москва;sale;flat;6;10;1;38.0;18300000;Пресненский;Большая Грузинская ;42;Баррикадная;
+Сергей Герасимов;realtor;https://www.cian.ru/sale/flat/312270688/;Москва;sale;flat;15;17;3;76.0;18300000;Некрасовка;проспект Защитников Москвы;15;Некрасовка;
+Самолет плюс Одинцово;real_estate_agent;https://www.cian.ru/sale/flat/309140391/;Москва;sale;flat;11;16;3;64.0;18490000;Свиблово;проезд Нансена;4К2;Свиблово;
+Нью Сити;real_estate_agent;https://www.cian.ru/sale/flat/314590847/;Москва;sale;flat;5;12;3;65.0;18500000;Бабушкинский;Енисейская ;28К1;Бабушкинская;
+GreenLine;real_estate_agent;https://www.cian.ru/sale/flat/315114490/;Москва;sale;flat;4;4;3;80.6;18500000;Южное Бутово;Южнобутовская ;125;Бунинская аллея;
+Макспол Парк Культуры;real_estate_agent;https://www.cian.ru/sale/flat/313563663/;Москва;sale;flat;12;14;2;60.9;18500000;Марьино; Перерва;62К1;Братиславская;
+Дмитрий Костянец;realtor;https://www.cian.ru/sale/flat/309269936/;Москва;sale;flat;7;12;1;39.1;18500000;Таганский;Таганская ;44;Пролетарская;
+Макромир;real_estate_agent;https://www.cian.ru/sale/flat/314398762/;Москва;sale;flat;6;16;2;54.0;18500000;Тропарево-Никулино; Академика Анохина;12К1;Юго-Западная;
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/313653206/;Москва;sale;flat;5;22;3;76.1;18500000;Митино;Пятницкое шоссе;12К2;Волоколамская;
+ID 22048;realtor;https://www.cian.ru/sale/flat/311259881/;Москва;sale;flat;11;17;1;38.0;18500000;Останкинский;Хованская ;6;Улица Академика Королёва;
+Монолит Столица;real_estate_agent;https://www.cian.ru/sale/flat/313238532/;Москва;sale;flat;16;16;2;78.0;18500000;Косино-Ухтомский; Татьяны Макаровой;4;Лухмановская;
+Самолет Плюс;real_estate_agent;https://www.cian.ru/sale/flat/305909789/;Москва;sale;flat;6;17;3;75.0;18500000;; Авиаконструктора Петлякова;13;Пыхтино;Солнцево парк
+Самолет плюс - Москва;real_estate_agent;https://www.cian.ru/sale/flat/313445562/;Москва;sale;flat;3;23;2;53.5;18500000;Рязанский;Окская ;1К1;Текстильщики;
+ЛАРТ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/315190729/;Москва;sale;flat;12;16;2;53.6;18500000;Тропарево-Никулино;Ленинский проспект;152;Юго-Западная;
+ГОРОДА;real_estate_agent;https://www.cian.ru/sale/flat/312760145/;Москва;sale;flat;14;17;3;83.0;18500000;Ново-Переделкино;Лукинская ;1;Новопеределкино;
+МИЭЛЬ;real_estate_agent;https://www.cian.ru/sale/flat/313871760/;Москва;sale;flat;19;25;2;58.5;18500000;; Анны Ахматовой;6;Рассказовка;Переделкино Ближнее Город-парк
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/315209043/;Москва;sale;flat;8;25;2;62.0;18500000;; Анны Ахматовой;4;Рассказовка;Переделкино Ближнее Город-парк
+Александр Крючков;realtor;https://www.cian.ru/sale/flat/313648910/;Москва;sale;flat;17;17;3;73.6;18500000;Митино;переулок 3-й Митинский;7;Митино;
+Респект;real_estate_agent;https://www.cian.ru/sale/flat/310322082/;Москва;sale;flat;16;16;2;78.0;18500000;Косино-Ухтомский; Татьяны Макаровой;4;Лухмановская;
+Антон Глебов;realtor;https://www.cian.ru/sale/flat/314849353/;Москва;sale;flat;11;12;3;62.0;18500000;Строгино;Неманский проезд;11;Строгино;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/309766532/;Москва;sale;flat;8;17;3;73.4;18500000;Ново-Переделкино;Лукинская ;5;Новопеределкино;
+MINIR Realty;real_estate_agent;https://www.cian.ru/sale/flat/309411768/;Москва;sale;flat;5;9;3;59.5;18500000;Черемушки; Цюрупы;15К3;Новые Черёмушки;
+Яна Ясницкая;realtor;https://www.cian.ru/sale/flat/315562220/;Москва;sale;flat;13;16;2;53.0;18500000;Тропарево-Никулино;проспект Вернадского;95К3;Юго-Западная;
+Екатерина Калтакова;realtor;https://www.cian.ru/sale/flat/297897525/;Москва;sale;flat;7;12;3;62.7;18600000;Отрадное; Декабристов;35;Отрадное;
+RealEstateDealer;real_estate_agent;https://www.cian.ru/sale/flat/315034335/;Москва;sale;flat;11;14;3;76.1;18500000;Косино-Ухтомский; Рудневка;11;Улица Дмитриевского;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/309255330/;Москва;sale;flat;6;17;2;55.1;18800000;Можайский;Можайское шоссе;45К1;Сетунь;
+ВСЁ ПРОСТО;real_estate_agent;https://www.cian.ru/sale/flat/312873828/;Москва;sale;flat;23;25;3;76.2;18750000;Некрасовка;Покровская ;17к5;Некрасовка;Некрасовка
+Анна Климова;realtor;https://www.cian.ru/sale/flat/307844459/;Москва;sale;flat;14;16;3;74.0;18800000;Ясенево;Литовский бульвар;26;Ясенево;
+EVERCON;real_estate_agent;https://www.cian.ru/sale/flat/314508296/;Москва;sale;flat;5;12;3;63.0;18800000;Строгино; Твардовского;5К2;Строгино;
+Этажи Москва;real_estate_agent;https://www.cian.ru/sale/flat/312860514/;Москва;sale;flat;7;17;3;76.0;18800000;Ново-Переделкино;Боровское шоссе;36;Новопеределкино;
+Андрей Машницкий;realtor;https://www.cian.ru/sale/flat/312775518/;Москва;sale;flat;7;14;2;57.9;18700000;Митино;Митинская ;43;Митино;
+Геометрия;real_estate_agent;https://www.cian.ru/sale/flat/300656297/;Москва;sale;flat;17;25;2;57.5;18700000;Братеево;Ключевая ;18;Алма-Атинская;
+ВАШ ВЫБОР;real_estate_agent;https://www.cian.ru/sale/flat/314746752/;Москва;sale;flat;3;17;2;52.8;18700000;Академический;Новочеремушкинская ;20/23;Академическая;
+Елена Гаврикова;realtor;https://www.cian.ru/sale/flat/305149837/;Москва;sale;flat;4;9;3;58.0;18700000;Солнцево;Солнцевский проспект;9К2;Солнцево;
+Анна Супрун;realtor;https://www.cian.ru/sale/flat/311125656/;Москва;sale;flat;6;16;1;51.0;18700000;Обручевский; Островитянова;5К3;Университет Дружбы Народов;
+Андрей Прусаков;realtor;https://www.cian.ru/sale/flat/315037800/;Москва;sale;flat;18;22;3;76.6;18800000;Марьино; Верхние Поля;28;Братиславская;
+Cветлана Базалеева;realtor;https://www.cian.ru/sale/flat/315080296/;Москва;sale;flat;9;16;3;75.0;18950000;Ясенево;Голубинская ;32/2;Новоясеневская;
+Михаил Лукичев;realtor;https://www.cian.ru/sale/flat/310626593/;Москва;sale;flat;11;17;3;74.5;18900000;Митино;Пятницкое шоссе;9;Волоколамская;
+ИНКОМ-Недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/315545955/;Москва;sale;flat;2;16;4;96.2;19000000;Южное Бутово;Скобелевская ;21;Улица Скобелевская;
+Максим Сластушинский;realtor;https://www.cian.ru/sale/flat/313123995/;Москва;sale;flat;4;12;3;63.0;18999000;Нагатинский затон;Коломенская ;21;Кленовый бульвар;
+МИЭЛЬ;real_estate_agent;https://www.cian.ru/sale/flat/313856910/;Москва;sale;flat;6;27;2;58.8;18999999;Орехово-Борисово Южное; Генерала Белова;28к2;Домодедовская;Орехово-Борисово
+Isaev Estate;real_estate_agent;https://www.cian.ru/sale/flat/312727096/;Москва;sale;flat;16;17;3;75.0;19000000;Братеево;Братеевская ;21К2;Борисово;
+ЕГСН Продажа;real_estate_agent;https://www.cian.ru/sale/flat/270537621/;Москва;sale;flat;4;16;4;132.0;19000000;; Дзержинского;6;Кокошкино;
+Владис;real_estate_agent;https://www.cian.ru/sale/flat/314173744/;Москва;sale;flat;2;17;3;76.0;19000000;Нижегородский;Перовское шоссе;6;Нижегородская;
+Денис Дитянов;realtor;https://www.cian.ru/sale/flat/312827802/;Москва;sale;flat;8;14;3;74.0;18900000;Новокосино;Суздальская ;12К4;Новокосино;
+Самолет Плюс Москва ЦАО;real_estate_agent;https://www.cian.ru/sale/flat/312420116/;Москва;sale;flat;8;9;3;57.7;18900000;Лефортово;Душинская ;18К1;Авиамоторная;
+Маргарита Семенихина;realtor;https://www.cian.ru/sale/flat/312739251/;Москва;sale;flat;9;14;2;56.3;19000000;Соколиная гора; 5-я Соколиной Горы;18К1;Шоссе Энтузиастов;
+Ирина Куравлева;realtor;https://www.cian.ru/sale/flat/308179835/;Москва;sale;flat;7;17;3;76.3;18900000;Марьино;Поречная ;13К1;Марьино;
+Сергей Гризодуб;realtor;https://www.cian.ru/sale/flat/315145427/;Москва;sale;flat;10;14;3;71.7;19000000;Восточное Дегунино;Керамический проезд;55К1;Бескудниково;
+МГСН;real_estate_agent;https://www.cian.ru/sale/flat/314755909/;Москва;sale;flat;16;16;3;73.0;19000000;Чертаново Южное;Варшавское шоссе;143К5;Аннино;
+LIME;real_estate_agent;https://www.cian.ru/sale/flat/309283929/;Москва;sale;flat;8;22;3;79.0;19000000;Митино;Дубравная ;48к1;Митино;
+Алексей Микушов;realtor;https://www.cian.ru/sale/flat/314974132/;Москва;sale;flat;5;17;2;65.0;19000000;Чертаново Южное;Россошанская ;4К1;Улица Академика Янгеля;
+ГОРОБМЕН;real_estate_agent;https://www.cian.ru/sale/flat/314570794/;Москва;sale;flat;4;17;2;50.4;18900000;Зюзино;Болотниковская ;33К2;Каховская;
+ОГРК;real_estate_agent;https://www.cian.ru/sale/flat/314890028/;Москва;sale;flat;24;25;3;76.4;18900000;Некрасовка;Покровская ;17к5;Некрасовка;Некрасовка
+Геометрия;real_estate_agent;https://www.cian.ru/sale/flat/314140261/;Москва;sale;flat;3;16;3;75.3;18999000;Западное Дегунино; Ивана Сусанина;2К1;Моссельмаш;
+Наталья Рябинина;realtor;https://www.cian.ru/sale/flat/315000440/;Москва;sale;flat;8;22;3;76.3;18990000;Выхино-Жулебино;Пронская ;9К2;Лермонтовский проспект;
+Людмила Карпухина;realtor;https://www.cian.ru/sale/flat/315172471/;Москва;sale;flat;16;17;3;75.6;19000000;Солнцево; Авиаторов;2;Солнцево;
+Евгений Волков;realtor;https://www.cian.ru/sale/flat/315114511/;Москва;sale;flat;12;16;3;79.0;18998000;Южное Бутово;Скобелевская ;3К1;Улица Скобелевская;
+Алина Рыбалова;realtor;https://www.cian.ru/sale/flat/307425552/;Москва;sale;flat;10;14;3;73.4;19000000;Новокосино;Суздальская ;12К5;Новокосино;
+Территория дела;real_estate_agent;https://www.cian.ru/sale/flat/309543215/;Москва;sale;flat;13;17;2;50.3;19000000;Филевский парк;Большая Филевская ;23К4;Багратионовская;
