@@ -42,8 +42,8 @@ data = moscow_parser.get_flats(
     rooms=(1, 2, 3, 4),
     with_saving_csv=True,
     additional_settings={
-        "start_page": 1,
-        "end_page": 55,
+        "start_page": 40,
+        "end_page": 50,
         "min_area": 30,  # Студии слишком разные, лучше с 30 м²
         "max_area": 150,
         "min_floor": 2,
@@ -54,7 +54,7 @@ data = moscow_parser.get_flats(
         "only_flat": True,
         "min_house_year": 1975,  # Исключаем совсем старые хрущёвки
         "max_house_year": 2019,
-        "metro_foot_minute": 15,
+        "metro_foot_minute": 4,
         "min_balconies": 1,
         "house_material_type": [1, 2, 3],  # Кирпич, панель, монолит
         "object_type": "secondary"  # Вторичка
@@ -102,6 +102,6 @@ for idx, flat in enumerate(data):
             ])
 
 # Сохраняем в файл
-wb.save("flatsWithMetrotime.xlsx")
+wb.save("flatsWithMetrotime7777.xlsx")
 
 print(f"✅ Сохранено {len(data)} объявлений в flats.xlsx")
