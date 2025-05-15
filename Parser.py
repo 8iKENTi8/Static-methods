@@ -39,18 +39,18 @@ moscow_parser = cianparser.CianParser(location="Москва")
 # Собираем данные (~500 записей) с фильтрами для этажей квартиры и здания, а также с увеличенным лимитом по цене
 data = moscow_parser.get_flats(
     deal_type="sale",
-    rooms=(1, 2, 3, 4),
+    rooms=(3),
     with_saving_csv=True,
     additional_settings={
-        "start_page": 40,
-        "end_page": 50,
+        "start_page": 1,
+        "end_page": 2,
         "min_area": 30,  # Студии слишком разные, лучше с 30 м²
         "max_area": 150,
-        "min_floor": 2,
-        "max_floor": 30,  # Ограничение по максимальному этажу квартиры
+        "min_floor": 6,
+        "max_floor": 6,  # Ограничение по максимальному этажу квартиры
         "max_total_floor": 40,  # Ограничение по максимальному этажу здания
-        "min_price": 9_000_000,
-        "max_price": 57_000_000,  # Ограничение по максимальной цене (200 млн)
+        "min_price": 18_700_000,
+        "max_price": 19_000_000,  # Ограничение по максимальной цене (200 млн)
         "only_flat": True,
         "min_house_year": 1975,  # Исключаем совсем старые хрущёвки
         "max_house_year": 2019,
@@ -102,6 +102,6 @@ for idx, flat in enumerate(data):
             ])
 
 # Сохраняем в файл
-wb.save("flatsWithMetrotime7777.xlsx")
+wb.save("flatsWithMetrotime7777asffsaf.xlsx")
 
 print(f"✅ Сохранено {len(data)} объявлений в flats.xlsx")
