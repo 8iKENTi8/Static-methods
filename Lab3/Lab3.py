@@ -239,6 +239,7 @@ build_distance_histogram(X_t)
 #region Region 7 - Вроцлавская таксономия (Р М СК НЗ)
 
 import networkx as nx
+import numpy as np
 
 class WroclawTaxonomyClustering:
     def __init__(self, distance_matrix):
@@ -257,12 +258,19 @@ class WroclawTaxonomyClustering:
         return [list(c) for c in components]
 
 def compute_within_cluster_distance(distance_matrix, clusters):
-    total = 0
+    """
+    Вычисляет сумму внутрикластерных квадратов отклонений по евклидову расстоянию
+    на основе расстояний между объектами и центрами кластеров.
+    """
+    total = 0.0
     for cluster in clusters:
-        center = np.mean(X.iloc[cluster], axis=0)
+        if len(cluster) == 0:
+            continue
+        # Находим центр кластера как среднее в исходном пространстве (данные X)
+        center = np.mean(X.iloc[cluster].values, axis=0)
         for i in cluster:
-            v = np.array(X.iloc[i]) - np.array(center)
-            total += np.dot(v, v)
+            v = X.iloc[i].values - center
+            total += np.dot(v, v)  # квадрат евклидова расстояния
     return total
 
 def wroclaw_taxonomy_elbow(distance_matrix, thresholds):
@@ -275,7 +283,7 @@ def wroclaw_taxonomy_elbow(distance_matrix, thresholds):
         cluster_counts.append(len(clusters))
         score = compute_within_cluster_distance(distance_matrix, clusters)
         scores.append(score)
-        print(f"Порог: {t:.2f}, Кластеры: {len(clusters)}, Внутрикластерный разброс: {score:.4f}")
+        print(f"Порог: {t:.4f}, Кластеры: {len(clusters)}, Внутрикластерный разброс: {score:.4f}")
 
     plt.figure(figsize=(8,4))
     plt.plot(cluster_counts, scores, 'ro-')
@@ -287,6 +295,72 @@ def wroclaw_taxonomy_elbow(distance_matrix, thresholds):
 
     return scores
 
-thresholds = np.linspace(0, 1.1, num=15)
+thresholds = np.linspace(0.01, 0.081, num=15)
 wroclaw_taxonomy_elbow(X_t, thresholds[::-1])
+
 #endregion
+
+
+# region 8 этап - Индекс силуэта для кластеризации Вроцлавской таксономии
+
+from sklearn.metrics import silhouette_score
+
+def wroclaw_taxonomy_elbow_with_silhouette(distance_matrix, thresholds):
+    print("=== Вроцлавская таксономия: Р М СК НЗ с индексом силуэта ===")
+    scores = []
+    silhouettes = []
+    cluster_counts = []
+
+    for t in thresholds:
+        clustering = WroclawTaxonomyClustering(distance_matrix)
+        clusters = clustering.cluster_with_threshold(t)
+        cluster_counts.append(len(clusters))
+        score = compute_within_cluster_distance(distance_matrix, clusters)
+
+        # Преобразование кластеров в метки
+        labels = np.zeros(len(distance_matrix), dtype=int)
+        for cluster_id, cluster in enumerate(clusters):
+            for index in cluster:
+                labels[index] = cluster_id
+
+        # Проверка количества уникальных меток
+        n_clusters = len(set(labels))
+        if n_clusters > 1:
+            silhouette = silhouette_score(X.values, labels, metric='euclidean')
+        else:
+            silhouette = np.nan  # Или 0, если хотите
+
+        scores.append(score)
+        silhouettes.append(silhouette)
+
+        print(f"Порог: {t:.4f}, Кластеры: {len(clusters)}, Внутрикластерный разброс: {score:.4f}, Silhouette: {silhouette}")
+
+    # Фильтруем NaN для корректного построения графика
+    filtered_counts = [c for c, s in zip(cluster_counts, silhouettes) if not np.isnan(s)]
+    filtered_silhouettes = [s for s in silhouettes if not np.isnan(s)]
+
+    plt.figure(figsize=(12, 5))
+    plt.subplot(1, 2, 1)
+    plt.plot(cluster_counts, scores, 'ro-')
+    plt.xlabel('Число кластеров')
+    plt.ylabel('Внутрикластерный разброс')
+    plt.title('Метод локтя — Вроцлавская таксономия')
+    plt.grid(True)
+
+    plt.subplot(1, 2, 2)
+    plt.plot(filtered_counts, filtered_silhouettes, 'bo-')
+    plt.xlabel('Число кластеров')
+    plt.ylabel('Индекс силуэта')
+    plt.title('Индекс силуэта по числу кластеров')
+    plt.grid(True)
+    plt.tight_layout()
+    plt.show()
+
+    return scores, silhouettes
+
+# Запускаем с порогами
+thresholds = np.linspace(0.01, 0.081, num=15)
+wroclaw_taxonomy_elbow_with_silhouette(X_t, thresholds[::-1])
+
+# endregion
+
