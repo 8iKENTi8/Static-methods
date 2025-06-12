@@ -364,3 +364,49 @@ wroclaw_taxonomy_elbow_with_silhouette(X_t, thresholds[::-1])
 
 # endregion
 
+# region 9 этап - Индекс Калински-Харабаша для кластеров Вроцлавской таксономии
+
+def wroclaw_taxonomy_with_calinski(distance_matrix, thresholds):
+    print("=== Вроцлавская таксономия с индексом Калински-Харабаша ===")
+    ch_scores = []
+    cluster_counts = []
+
+    for t in thresholds:
+        clustering = WroclawTaxonomyClustering(distance_matrix)
+        clusters = clustering.cluster_with_threshold(t)
+        cluster_counts.append(len(clusters))
+
+        # Формируем метки для объектов из кластеров
+        labels = np.zeros(len(distance_matrix), dtype=int)
+        for cluster_id, cluster in enumerate(clusters):
+            for index in cluster:
+                labels[index] = cluster_id
+
+        # Индекс Калински-Харабаша требует минимум 2 кластера
+        if len(set(labels)) > 1:
+            ch_score = calinski_harabasz_score(X.values, labels)
+        else:
+            ch_score = np.nan
+
+        ch_scores.append(ch_score)
+        print(f"Порог: {t:.4f}, Кластеры: {len(clusters)}, Индекс Калински-Харабаша: {ch_score}")
+
+    # Фильтрация nan значений
+    filtered_counts = [c for c, s in zip(cluster_counts, ch_scores) if not np.isnan(s)]
+    filtered_scores = [s for s in ch_scores if not np.isnan(s)]
+
+    plt.figure(figsize=(8,4))
+    plt.plot(filtered_counts, filtered_scores, 'go-')
+    plt.xlabel('Число кластеров')
+    plt.ylabel('Индекс Калински-Харабаша')
+    plt.title('Индекс Калински-Харабаша для Вроцлавской таксономии')
+    plt.grid(True)
+    plt.show()
+
+    return ch_scores
+
+# Запускаем с теми же порогами
+thresholds = np.linspace(0.01, 0.081, num=15)
+wroclaw_taxonomy_with_calinski(X_t, thresholds[::-1])
+
+# endregion
