@@ -12,6 +12,85 @@ from sklearn.metrics import pairwise_distances
 import networkx as nx
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, r2_score
+import math
+from sklearn.metrics import calinski_harabasz_score
+
+# region метрики
+
+def compute_distance_matrix(data, metric):
+    """
+    Строит матрицу расстояний для набора объектов.
+    data — список точек: [[x1, y1, ...], [x2, y2, ...], ...]
+    Возвращает квадратную матрицу расстояний.
+    """
+    n = len(data)
+    matrix = [[0.0 for _ in range(n)] for _ in range(n)]
+    for i in range(n):
+        for j in range(n):
+            if i != j:
+                if metric == 'euclidean':
+                    dist = euclidean_distance2(data[i], data[j])
+                if metric == 'manhattan':
+                    dist = manhattan_distance(data[i], data[j])
+                if metric == 'chebyshev':
+                    dist = chebyshev_distance(data[i], data[j])
+                if metric == 'minkowski':
+                    dist = minkowski_distance(data[i], data[j], 2, 3)
+                if metric == 'mahalanobis':
+                    dist = mahalanobis_distance(data[i], data[j], cov_inv)
+                if metric == 'spearman':
+                    dist = spearman_rank_correlation(data[i], data[j])
+                if metric == 'kendall':
+                    dist = kendall_tau(data[i], data[j])
+                if metric == 'pearson':
+                    dist = pearson_correlation(data[i], data[j])
+                matrix[i][j] = dist
+            else:
+                matrix[i][j] = 0.0  # расстояние до себя
+
+    return matrix
+
+def euclidean_distance(p1, p2):
+    return math.sqrt(sum((a - b) ** 2 for a, b in zip(p1, p2)))
+def euclidean_distance2(p1, p2):
+    return sum((a - b) ** 2 for a, b in zip(p1, p2))
+def manhattan_distance(p1, p2):
+    return sum(abs(a - b) for a, b in zip(p1, p2))
+def chebyshev_distance(p1, p2):
+    return max(abs(a - b) for a, b in zip(p1, p2))
+def minkowski_distance(p1, p2, p, r):
+    return sum(abs(a - b) ** p for a, b in zip(p1, p2)) ** (1 / r)
+def mahalanobis_distance(p1, p2, cov_inv):
+    delta = np.array(p1) - np.array(p2)
+    return np.sqrt(np.dot(np.dot(delta.T, cov_inv), delta))
+def spearman_rank_correlation(x, y):
+    n = len(x)
+    rank_x = {val: rank for rank, val in enumerate(sorted(x), 1)}
+    rank_y = {val: rank for rank, val in enumerate(sorted(y), 1)}
+    d_squared = sum((rank_x[a] - rank_y[b]) ** 2 for a, b in zip(x, y))
+    return 1 - (6 * d_squared) / (n * (n**2 - 1))
+def kendall_tau(x, y):
+    n = len(x)
+    concordant = discordant = 0
+    for i in range(n):
+        for j in range(i + 1, n):
+            a = x[i] - x[j]
+            b = y[i] - y[j]
+            if a * b > 0:
+                concordant += 1
+            elif a * b < 0:
+                discordant += 1
+    return (concordant - discordant) / (0.5 * n * (n - 1))
+def pearson_correlation(x, y):
+    n = len(x)
+    mean_x = sum(x) / n
+    mean_y = sum(y) / n
+    num = sum((a - mean_x) * (b - mean_y) for a, b in zip(x, y))
+    den_x = sum((a - mean_x) ** 2 for a in x)
+    den_y = sum((b - mean_y) ** 2 for b in y)
+    return num / math.sqrt(den_x * den_y)
+
+# endregion
 
 print("Текущая директория:", os.getcwd())
 
@@ -90,64 +169,124 @@ print(data.head())
 
 # endregion
 
-# region 5 этап - Анализ данных (EDA)
+# region 5 этап - Подвыборка 40% и матрица расстояний
 
-print("\n=== 5 ЭТАП: EDA - Анализ распределений, корреляций и выбросов ===")
+print("\n=== 5 ЭТАП: Подвыборка 40% и матрица расстояний ===")
 
-# Распределение признаков
-data.hist(bins=15, figsize=(15,10))
-plt.suptitle('Распределение признаков')
-plt.show()
+# Можно использовать все данные, они уже числовые
+X = data
 
-# Корреляционная матрица
-plt.figure(figsize=(10,7))
-sns.heatmap(data.corr(), annot=True, cmap='coolwarm')
-plt.title('Корреляционная матрица')
-plt.show()
+# Делаем подвыборку 40%
+X = X.sample(frac=0.4, random_state=42).reset_index(drop=True)
 
-# Boxplot для проверки выбросов
-plt.figure(figsize=(12,6))
-sns.boxplot(data=data[num_cols])
-plt.title('Boxplot числовых признаков')
-plt.xticks(rotation=45)
-plt.show()
+# Считаем матрицу расстояний
+X_t = compute_distance_matrix(X.values, 'euclidean')
+
+# Показываем первые строки
+print("Матрица расстояний (первые 5 строк):")
+print(pd.DataFrame(X_t).head())
 
 # endregion
 
-# region 6 этап - Разделение данных и обучение модели
+# region 6 этап - Гистограмма расстояний
 
-print("\n=== 6 ЭТАП: Разделение выборки и обучение модели ===")
+print("\n=== 6 ЭТАП: Гистограмма расстояний ===")
 
+def build_distance_histogram(distance_matrix, bins=20):
+    n = len(distance_matrix)
+    distances = []
+    
+    for i in range(n):
+        for j in range(i + 1, n):
+            distances.append(distance_matrix[i][j])
 
+    # Определяем минимальное и максимальное расстояние
+    min_d = min(distances)
+    max_d = max(distances)
+    step = (max_d - min_d) / bins
 
-# Разделяем признаки и целевую переменную
-X = data.drop(columns=['Performance Index'])
-y = data['Performance Index']
+    histogram = [0] * bins
 
-# Разделяем на обучающую и тестовую выборку
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+    for d in distances:
+        index = int((d - min_d) / step)
+        if index == bins:
+            index -= 1  # включаем правую границу в последний столбец
+        histogram[index] += 1
 
-# Обучаем модель линейной регрессии
-model = LinearRegression()
-model.fit(X_train, y_train)
+    # Вывод гистограммы в консоль и на график
+    binss = []
+    counts = []
+    print("Гистограмма расстояний:")
+    for i in range(bins):
+        left = min_d + i * step
+        right = left + step
+        counts.append(histogram[i])
+        binss.append(f"[{left:.2f}, {right:.2f})")
 
-# Предсказания
-y_pred = model.predict(X_test)
+    for b, c in zip(binss, counts):
+        print(f"{b}: {c}")
 
-# Оценка качества
-mse = mean_squared_error(y_test, y_pred)
-r2 = r2_score(y_test, y_pred)
+    plt.barh(binss, counts, color='skyblue')
+    plt.xlabel('Количество')
+    plt.ylabel('Интервалы')
+    plt.tight_layout()
+    plt.show()
 
-print(f"Среднеквадратичная ошибка (MSE): {mse:.4f}")
-print(f"Коэффициент детерминации (R²): {r2:.4f}")
-
-# Визуализация
-plt.scatter(y_test, y_pred)
-plt.xlabel("Фактический Performance Index")
-plt.ylabel("Предсказанный Performance Index")
-plt.title("Фактическое vs Предсказанное")
-plt.plot([0,1],[0,1], 'r--')
-plt.grid()
-plt.show()
+build_distance_histogram(X_t)
 
 # endregion
+
+#region Region 7 - Вроцлавская таксономия (Р М СК НЗ)
+
+import networkx as nx
+
+class WroclawTaxonomyClustering:
+    def __init__(self, distance_matrix):
+        self.distance_matrix = distance_matrix
+        self.n = len(distance_matrix)
+        self.graph = nx.Graph()
+        self.graph.add_nodes_from(range(self.n))
+
+    def cluster_with_threshold(self, threshold):
+        self.graph.clear_edges()
+        for i in range(self.n):
+            for j in range(i + 1, self.n):
+                if self.distance_matrix[i][j] < threshold:
+                    self.graph.add_edge(i, j)
+        components = list(nx.connected_components(self.graph))
+        return [list(c) for c in components]
+
+def compute_within_cluster_distance(distance_matrix, clusters):
+    total = 0
+    for cluster in clusters:
+        center = np.mean(X.iloc[cluster], axis=0)
+        for i in cluster:
+            v = np.array(X.iloc[i]) - np.array(center)
+            total += np.dot(v, v)
+    return total
+
+def wroclaw_taxonomy_elbow(distance_matrix, thresholds):
+    print("=== Вроцлавская таксономия: Р М СК НЗ ===")
+    scores = []
+    cluster_counts = []
+    for t in thresholds:
+        clustering = WroclawTaxonomyClustering(distance_matrix)
+        clusters = clustering.cluster_with_threshold(t)
+        cluster_counts.append(len(clusters))
+        score = compute_within_cluster_distance(distance_matrix, clusters)
+        scores.append(score)
+        print(f"Порог: {t:.2f}, Кластеры: {len(clusters)}, Внутрикластерный разброс: {score:.4f}")
+
+    plt.figure(figsize=(8,4))
+    plt.plot(cluster_counts, scores, 'ro-')
+    plt.xlabel('Число кластеров')
+    plt.ylabel('Внутрикластерный разброс')
+    plt.title('Метод локтя — Вроцлавская таксономия')
+    plt.grid(True)
+    plt.show()
+
+    return scores
+
+thresholds = np.linspace(0, 1.1, num=15)
+wroclaw_taxonomy_elbow(X_t, thresholds[::-1])
+#endregion
